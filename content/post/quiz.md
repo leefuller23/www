@@ -3,7 +3,7 @@ title: "Rachel wrote a quiz"
 date: 2020-12-20
 publishdate: 2020-12-20
 lastmod: 2020-12-20
-draft: true
+draft: false
 tags: ["quiz", "rachel"]
 ---
 
