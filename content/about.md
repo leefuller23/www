@@ -28,4 +28,4 @@ Hugo theme: [zwbetz-gh/minimal-bootstrap-hugo-theme](https://github.com/zwbetz-g
 
 ---
 
-Built from 'main' branch on GitHub every 15 minutes.
+Generated from 'main' branch every 15 minutes.
