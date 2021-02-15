@@ -7,4 +7,4 @@ draft: false
 tags: ["work", "dayjob"]
 ---
 
-For work I use a Public OneDrive folder](https://onyx365-my.sharepoint.com/:f:/r/personal/lee_onyx-it_co_uk/Documents/Shared%20Folder?csf=1&web=1&e=kkYckD) to share files between PCs.
+For work I use a [Public OneDrive folder](https://onyx365-my.sharepoint.com/:f:/g/personal/lee_onyx-it_co_uk/EiZUKDmLQhdDgGiQNtPkroEBQHiq9RhgqxQEGbFKjuuXig?e=2YwXIU) to share files between PCs.
