@@ -8,7 +8,7 @@ date: "2021-03-01"
 QTflix is our self-hosted Video on Demand service.
 
 ## Service Status
-```yaml
+```
 No service status during Private Beta!
 ```
 ---
