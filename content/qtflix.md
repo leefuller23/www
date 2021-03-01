@@ -5,7 +5,13 @@ date: "2021-03-01"
 
 ## About
 
-QTflix is Rachel+Lee's family/friends only media service.
+QTflix is our self-hosted Video on Demand service.
+
+## Service Status
+```yaml
+No service status during Private Beta!
+```
+---
 
 ## Access via browser
 https://emby.qtnet.leefuller.io
@@ -19,14 +25,3 @@ https://emby.qtnet.leefuller.io
 Option 1: Use your Smart TV's browser as above
 
 Option 1: Find "Emby" app in your smart TV app store and complete App setup as above.
-
-## Service Status
-```yaml
-Private Beta
-```
----
-
-## Incident History
-```yaml
-01/03/2021 - Launch test
-```
