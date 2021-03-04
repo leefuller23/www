@@ -12,7 +12,7 @@ It uses the emby media server
 
 ## Service Status
 ```bash
-No service status during Private Beta!
+Degraded: connected via 4G mobile broadband! 
 ```
 ---
 
