@@ -27,7 +27,7 @@ No service status during Private Beta!
 2) Chose "Add server"
 
 3) In "host" field enter exactly as below including https://
-```bash
+```
 https://emby.qtnet.leefuller.io
 ```
 
