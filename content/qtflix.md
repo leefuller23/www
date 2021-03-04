@@ -11,7 +11,7 @@ QTflix is Lee/Rachel's self-hosted Video on Demand service.
 It uses the emby media server
 
 ## Service Status
-```
+```bash
 No service status during Private Beta!
 ```
 ---
@@ -34,4 +34,4 @@ https://emby.qtnet.leefuller.io
 ## Access via Smart TV
 Option 1: Use your Smart TV's browser as above
 
-Option 1: Find "emby" app in your smart TV app store and complete App setup as above.
+Option 2: Find "emby" app in your smart TV app store and complete App setup as above.
