@@ -1,0 +1,13 @@
+---
+more:
+  - name: News
+    ref: "/posts"
+    icon: "notification"
+  - name: Telescope
+    ref: "https://duckduckgo.com/?q=telescope&t=brave&ia=web"
+    external: true
+    icon: "telescope"
+  - name: "View Source"
+    ref: "https://github.com/leefuller23/"
+    external: true
+    icon: "github"
