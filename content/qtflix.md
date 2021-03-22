@@ -27,6 +27,11 @@ https://emby.qtnet.leefuller.io
 
 https://support.emby.media/support/solutions/44000610499
 
+When you have installed the app, it will ask you for server info. Use the following config:
+
+Host: emby.qtnet.leefuller.io
+Port: 443
+
 ## Live Service Status
 
 If QTflix is misbehaving it may be due to connectivity issues at home. Check the following link for a live, automatically updated status overview:
