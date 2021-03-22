@@ -6,9 +6,9 @@ lastmod: 2021-03-22
 
 ## About
 
-QTflix is a self-hosted implementation of Emby Media Server.
+QTflix is a self-hosted implementation of [Emby Media Server](https://emby.media/).
 
-All direct family & direct/indirect friends welcome to request accounts.
+Family and friends are welcome to request accounts. Talk to Lee or Rachel.
 
 Public access is not an option.
 
