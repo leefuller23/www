@@ -1,37 +1,36 @@
 ---
 title: "QTflix"
 date: "2021-03-01"
-lastmod: 2021-03-05
+lastmod: 2021-03-22
 ---
 
 ## About
 
-QTflix is a self-hosted VoD service. All direct family & direct/indirect friends welcome to request accounts. Public access is not an option.
+QTflix is a self-hosted implementation of Emby Media Server.
 
-It is powered by [Emby Media Server](https://emby.media/) which anyone can setup and install.
+All direct family & direct/indirect friends welcome to request accounts.
 
-Currently there is ongoing service disruption caused by our main broadband connection being a shitty Three Mobile LTE connection with a flappy ip4 address.
+Public access is not an option.
 
-There is also currently a 1Mbps bitrate limit per stream and 1 stream max per account. I hope this will improve over time.
+## Getting Started
 
----
+Easiest way to get started on TV, Games Console + PC/Laptop
 
-## Access via browser
-1) Open your favourite browser.
+**Copy/paste or type this entire URL including https:// into the device's built-in Web browser:**
 
-2) Visit the URL https://emby.qtnet.leefuller.io
-
-## Access via Android, iPhone, games console etc.
-1) Download Emby from your app store.
-
-2) Chose "Add server"
-
-3) In "host" field enter exactly as below including https://
 ```
 https://emby.qtnet.leefuller.io
 ```
 
-## Access via Smart TV
-Option 1: Use your Smart TV's browser as above
+## Apps: 
+**Alexa, Android Mobile/TV, Chromecast, Windows 10, Fire TV, Google Home, iOS, LG TV, Roku**
 
-Option 2: Find "Emby" app in your smart TV app store and complete App setup as above.
+https://support.emby.media/support/solutions/44000610499
+
+## Live Service Status
+
+If QTflix is misbehaving it may be due to connectivity issues at home. Check the following link for a live, automatically updated status overview:
+
+https://uptime.statuscake.com/?TestID=zxyFr0T0gb
+
+
