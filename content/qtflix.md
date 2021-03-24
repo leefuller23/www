@@ -24,7 +24,7 @@ https://emby.qtnet.leefuller.io
 ## Apps: 
 **Alexa, Android Mobile/TV, Chromecast, Windows 10, Fire TV, Google Home, iOS, LG TV, Roku**
 
-[Click here to access install for Emby apps](https://support.emby.media/support/solutions/44000610499).
+[Click here to access install guides for each Emby app](https://support.emby.media/support/solutions/44000610499).
 
 When you have installed the app, it will ask you for server info. Use the following config:
 
