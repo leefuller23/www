@@ -34,6 +34,6 @@ When you have installed the app, it will ask you for server info. Use the follow
 
 ## Live Service Status
 
-[Click here for live automatically updated service status](https://uptime.statuscake.com/?TestID=zxyFr0T0gb).
+[Click here for live service status](https://uptime.statuscake.com/?TestID=zxyFr0T0gb).
 
-
+If you are having issues, please check here first before you contact Rachel or Lee.
