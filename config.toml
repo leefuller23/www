@@ -44,13 +44,17 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/about/"
   weight = 3
   [[menu.nav]]
-  name = "Source"
-  url = "https://github.com/leefuller23/leefuller.io"
+  name = "QTflix"
+  url = "https://leefuller.io/qtflix"
   weight = 4
+  [[menu.nav]]
+  name = "Source"
+  url = "https://gitlab.leefuller.io/lee/www"
+  weight = 5
   [[menu.nav]]
   name = "RSS"
   url = "/index.xml"
-  weight = 5
+  weight = 6
 
 [markup]
   defaultMarkdownHandler = "goldmark"
