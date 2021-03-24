@@ -36,4 +36,4 @@ When you have installed the app, it will ask you for server info. Use the follow
 
 [Click here for live service status](https://uptime.statuscake.com/?TestID=zxyFr0T0gb).
 
-If you are having issues, please check here first before you contact Rachel or Lee.
+If you are having issues, please check the status page before you contact Rachel or Lee. If the system is down, we 100% already know!
