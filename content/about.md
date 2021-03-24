@@ -6,7 +6,7 @@ date: "2020-12-18"
 ---
 ## Me
 
-IT / networks / infosec supergeek.
+Network / infrastructure supergeek.
 
 [www@leefuller.io](mailto:www@leefuller.io)
 
