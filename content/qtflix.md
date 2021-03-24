@@ -10,13 +10,12 @@ QTflix is a self-hosted implementation of [Emby Media Server](https://emby.media
 
 Family and friends are welcome to request accounts. Talk to Lee or Rachel.
 
-Public access is not an option.
 
 ## Getting Started
 
-Easiest way to get started on TV, Games Console + PC/Laptop
+The easiest way to get started on TV, Games Console + PC/Laptop
 
-**Copy/paste or type this entire URL including https:// into the device's built-in Web browser:**
+**Copy/paste or type this entire URL including https:// into your device's built-in Web browser:**
 
 ```
 https://emby.qtnet.leefuller.io
