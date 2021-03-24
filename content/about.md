@@ -13,7 +13,6 @@ IT / networks / infosec supergeek.
 ---
 ## Certs
 
-- CompTIA Network+ (currently studying)
 - CompTIA Systems Support Specialist
 - CompTIA Linux+
 - CompTIA A+
@@ -29,4 +28,3 @@ Hugo theme: [zwbetz-gh/minimal-bootstrap-hugo-theme](https://github.com/zwbetz-g
 
 ---
 
-Generated from source every 15 minutes.
