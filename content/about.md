@@ -6,7 +6,9 @@ date: "2020-12-18"
 ---
 ## Me
 
-Network / infrastructure supergeek.
+Networks / automation / infrastructure supergeek.
+
+Self host **everything**
 
 [www@leefuller.io](mailto:www@leefuller.io)
 
