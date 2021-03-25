@@ -44,10 +44,6 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/about/"
   weight = 3
   [[menu.nav]]
-  name = "QTflix"
-  url = "/qtflix/"
-  weight = 4
-  [[menu.nav]]
   name = "Source"
   url = "https://gitlab.leefuller.io/lee/www"
   weight = 5
