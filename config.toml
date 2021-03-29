@@ -1,4 +1,4 @@
-baseURL = "https://leefuller.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "LeeFuller.io"
 theme = "minimal-bootstrap-hugo-theme"
