@@ -10,7 +10,7 @@ theme = "minimal-bootstrap-hugo-theme"
   post = "/:filename/"
 
 [params]
-  description = "LeeFuller.io"
+  description = "Lee Loves Rachel ♡♡♡"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
