@@ -6,15 +6,14 @@ date: "2020-12-18"
 ---
 ## Me
 
-Networks / automation / infrastructure supergeek.
-
-Self host **everything**
+IT / networks / infosec supergeek.
 
 [www@leefuller.io](mailto:www@leefuller.io)
 
 ---
 ## Certs
 
+- CompTIA Network+ (currently studying)
 - CompTIA Systems Support Specialist
 - CompTIA Linux+
 - CompTIA A+
@@ -30,3 +29,4 @@ Hugo theme: [zwbetz-gh/minimal-bootstrap-hugo-theme](https://github.com/zwbetz-g
 
 ---
 
+Generated from source every 15 minutes.

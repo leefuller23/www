@@ -1,4 +1,4 @@
-baseURL = "https://leefuller.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "LeeFuller.io"
 theme = "minimal-bootstrap-hugo-theme"
@@ -10,7 +10,7 @@ theme = "minimal-bootstrap-hugo-theme"
   post = "/:filename/"
 
 [params]
-  description = "LeeFuller.io"
+  description = "Lee Loves Rachel ♡♡♡"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
@@ -44,13 +44,9 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/about/"
   weight = 3
   [[menu.nav]]
-  name = "Source"
-  url = "https://gitlab.leefuller.io/lee/www"
-  weight = 5
-  [[menu.nav]]
   name = "RSS"
   url = "/index.xml"
-  weight = 6
+  weight = 4
 
 [markup]
   defaultMarkdownHandler = "goldmark"
