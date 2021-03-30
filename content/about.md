@@ -8,6 +8,8 @@ date: "2020-12-18"
 
 IT / networks / infosec supergeek.
 
+Self host **everything.**
+
 [www@leefuller.io](mailto:www@leefuller.io)
 
 ---
