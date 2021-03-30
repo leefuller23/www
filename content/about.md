@@ -15,7 +15,6 @@ Self host **everything.**
 ---
 ## Certs
 
-- CompTIA Network+ (currently studying)
 - CompTIA Systems Support Specialist
 - CompTIA Linux+
 - CompTIA A+
