@@ -21,8 +21,6 @@ Mail/Webmail are Linux VMs at Digital Ocean.
 
 Website is (as of 30/03/2021) now an automatically built/deployed containerised app hosted on Digital Ocean App Platform - a managed Kubernetes implementation.
 
-I have 1 x 8 year server, an 8 year old gen 6 proliant dual Xeon w/ 74GB of RAM.
-
 ## Aspirational future state
 
 Rebuild server with ProxMox, run a 5 node K8S cluster on it (for practice, not HA) rebuild my Mail VM as a dedicated VM on ProxMox host. 
