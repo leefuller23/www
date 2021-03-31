@@ -1,6 +1,6 @@
 ---
 title: "Moving to DevOps"
-date: 2021-04-01
+date: 2021-03-30
 publishdate: 2021-03-30
 lastmod: 2021-03-30
 draft: false
