@@ -15,7 +15,7 @@ But from today it is at [www.leefuller.io](https://www.leefuller.io).
 
 ## Some background facts
 
-My IaaS provider now has a PaaS product called [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/). As my site is already a Git repo and built with a Bash script, it is technically an app, and static sites are free on App Platform.
+My IaaS provider now has a PaaS product called [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/). As my site is already a Git repo and built with a [Hugo](https://gohugo.io), it can squeeze onto the free tier.
 
 I can link to GitHub and each time I commit to the main branch App Platform checks out the code, rebuilds the site and then serves the static HTML through a managed Kubernetes implementation in their [AMS datacenter region.](https://docs.digitalocean.com/products/platform/availability-matrix/#app-platform-availability).
 
