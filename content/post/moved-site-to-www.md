@@ -17,7 +17,7 @@ But from today it is at [www.leefuller.io](https://www.leefuller.io).
 
 My IaaS provider now has a PaaS product called [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/). As my site is already a Git repo and built with a [Hugo](https://gohugo.io), it can squeeze onto the free tier.
 
-I can link to GitHub and each time I commit to the main branch App Platform checks out the code, rebuilds the site and then serves the static HTML through a managed Kubernetes implementation in their [AMS datacenter region.](https://docs.digitalocean.com/products/platform/availability-matrix/#app-platform-availability).
+I can link to GitHub and each time I commit to the main branch App Platform checks out the code, rebuilds the site and then serves the static HTML through a managed [Kubernetes](https://kubernetes.io/) implementation in their [AMS datacenter region.](https://docs.digitalocean.com/products/platform/availability-matrix/#app-platform-availability).
 
 ![A screenshot of Digital Ocean App Platform Deployment Console](/asset/img/moved-site-to-www.png)
 [Link](https://www2.leefuller.io/asset/img/moved-site-to-www.png)
