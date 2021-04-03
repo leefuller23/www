@@ -20,6 +20,7 @@ My IaaS provider now has a PaaS product called [Digital Ocean App Platform](http
 I can link to GitHub and each time I commit to the main branch App Platform checks out the code, rebuilds the site and then serves the static HTML through a managed Kubernetes implementation in their [AMS datacenter region.](https://docs.digitalocean.com/products/platform/availability-matrix/#app-platform-availability).
 
 ![A screenshot of Digital Ocean App Platform Deployment Console](/asset/img/moved-site-to-www.png)
+[Link](https://www2.leefuller.io/asset/img/moved-site-to-www.png)
 
 ## The reason: To save $5 pcm.
 
