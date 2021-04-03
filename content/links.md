@@ -9,8 +9,6 @@ aliases:
 tags: ["www", "links"]
 ---
 
-## Links
-
 [How to Manage Multistage Environments with Ansible](https://www.digitalocean.com/community/tutorials/how-to-manage-multistage-environments-with-ansible)
 
 [Ethernet and IP Networking 101 (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
