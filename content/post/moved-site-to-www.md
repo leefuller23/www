@@ -4,7 +4,7 @@ date: 2021-04-03
 publishdate: 2021-04-03
 lastmod: 2021-04-03
 draft: false
-tags: ["www", "docker"]
+tags: ["www", "kubernetes"]
 ---
 
 I have moved my site to WWW.
