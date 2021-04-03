@@ -24,3 +24,5 @@ I can link to GitHub and each time I commit to the main branch App Platform chec
 I have spun down 1 of my $5 'Droplet' compute instances which was running Apache2 and only lived to serve my zero-traffic site.
 
 I have replaced it by using free static site hosting on Digital Ocean App Platform.
+
+The journey continues.
