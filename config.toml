@@ -44,8 +44,8 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/about/"
   weight = 3
   [[menu.nav]]
-  name = "Status"
-  url = "https://uptime.statuscake.com/?TestID=zxyFr0T0gb"
+  name = "Links"
+  url = "/links/"
   weight = 4
   [[menu.nav]]
   name = "RSS"
