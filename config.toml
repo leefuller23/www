@@ -40,11 +40,11 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/tags/"
   weight = 2
   [[menu.nav]]
-  name = "About Me"
+  name = "About"
   url = "/about/"
   weight = 3
   [[menu.nav]]
-  name = "System Status"
+  name = "Status"
   url = "https://uptime.statuscake.com/?TestID=zxyFr0T0gb"
   weight = 4
   [[menu.nav]]
