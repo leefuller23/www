@@ -21,8 +21,9 @@ Google Drive/Dropbox
 Netflix/Prime Video etc
 
 Lastpass
+
+...and I plan to write about them here one day.
+
 * * *
 
-...and I plan to write about them here one day. 
-
-(Live Status)[https://uptime.statuscake.com/?TestID=zxyFr0T0gb]
+[Live Status](https://uptime.statuscake.com/?TestID=zxyFr0T0gb)
