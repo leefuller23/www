@@ -8,16 +8,38 @@ draft: false
 
 QTnet is a friendly banner for my self hosted projects. It is no relation to the cross-platofrm dev framework Qt.
 
-QT: "cutie". Have you met me? I'm adorable. QTnet is the obvious branding for my self-hosted stack.
+***QT: "cutie". Have you met me? I'm adorable. QTnet is the obvious branding for my self-hosted stack.***
 
+In the not-too-distant future I will link each of the following items to their own page on my site detailing how to reproduce them from scratch.
+
+The idea is to offer a follow-along guide to build your own stack with careful attention paid to network fundamentals, security and high availabilty. 
+
+All without devating from the promise of a low cost / Google-free private self-hosted tech stack for you and your family. 
+
+## User facing services:
 QTmail: Postfix/Dovecot (currently on a raspberry pi 3 model b)
+
 QTwebmail: Roundcube Webmail (containerised)
+
 QTflix: Emby (containerised)
+
+QTphotos: Photo storage (no presentation yet)
+
 QTcloud: Nextcloud (containerised)
+
 QTpass: BitWarden (containerised)
+
 QTsync: Syncthing (containerised)
+
 QTgit: GitLab (bare metal)
+
 QTnotes: Joplin (synced with QTsync/Syncthing)
+
 QTsearch: Searx (containerised)
 
-* * *
+QTwww: Uses GitLab CI/CD to build my site (leefuller.io) from Markdown files into a container with Nginx. Deploys into production container host on commit to Main branch. Deploys to staging on other branches. 
+
+## Internal facing services:
+QTnfs-fast: Internal storage. Mountable as NFS4 to VM or container workloads. Use case: latency-sensitive / sensitive user-generated data. Config data and secrets. Backed up by per app, as a complete filesystem + as Proxmox VM snapshot. 2 local, 2 offsite. (fast, secure, durable, expensive). Currently storing 409G with 1.4T free.
+
+QTnfs-slow: Internal storage. Mountable as NFS2/3 to VM/CT workloads. Use case: media, software repositories. Slow writes, fast reads. Daily 1:1 mirror copied to external disk. No offsite. Currently storing 11T with 522G free.
