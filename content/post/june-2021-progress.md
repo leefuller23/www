@@ -25,4 +25,4 @@ This is the corner stone of my new deployment process. Router port forwards all 
 ## Fedora 34: 2x Container Hosts
 Green/Blue deployments! Using Ansible, GitLab + Docker Compose I can now run a playbook against a blank/minimal container VM and rebuild my entire software stack.
 
-The default playbook builds the stack with dummy userdata, a second playbook switches the data from dummy to production, a final playbook updates HAProxy to seamlessly route traffic from green to blue or back again.
+My main playbook builds the stack as a staging area with dummy (non-production) data. This way I can test container upgrades on a separate dataset away from the important data. I can then access services directly on the staging container host by IP address to ensure they work etc.
