@@ -9,12 +9,8 @@ tags: ["qtnet", "devops"]
 
 I have made some decent progress. 
 
-10 VMs have been condensed to a single, bare metal Fedora 34 container host running podman.
+10 single use VMs have been condensed to 4.
+I have 2 container hosts
 QTflix/Emby and QTsync/Syncthing now run in containers.
 frontend-proxy/swag is up and running
 
-
-Things left to do:
-
-Fix DDNS
-launch missing services (Searx, Nextcloud etc)
