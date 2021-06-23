@@ -34,11 +34,15 @@ QTsync: Syncthing (containerised)
 
 QTgit: GitLab (bare metal)
 
+QTsql: Managed MariaDB SQL engine with full transaction logging
+
 QTnotes: Joplin (synced with QTsync/Syncthing)
 
 QTsearch: Searx (containerised)
 
 QTwww: Uses GitLab CI/CD to build my site (leefuller.io) from Markdown files into a container with Nginx. Deploys into production container host on commit to Main branch. Deploys to staging on other branches. 
+
+QThome: Home Assistant w/ bells and whistles for self-hosted "smart" plugs + bulbs that don't rely on 3rd party cloud services.
 
 ## Storage as products
 
