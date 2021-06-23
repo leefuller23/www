@@ -8,7 +8,7 @@ draft: false
 
 QTnet is a friendly banner for my self hosted projects. It is no relation to the cross-platofrm dev framework Qt.
 
-QT: "cutie". Have you met me? I'm adorable. QTnet is the ideal branding for my self-hosted stack.
+QT: "cutie". Have you met me? I'm adorable. QTnet is the obvious branding for my self-hosted stack.
 
 QTmail: Postfix/Dovecot (currently on a raspberry pi 3 model b)
 QTwebmail: Roundcube Webmail (containerised)
