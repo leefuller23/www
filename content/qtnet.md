@@ -44,12 +44,18 @@ QTwww: Uses GitLab CI/CD to build my site (leefuller.io) from Markdown files int
 
 QTnfs-fast: VM backed NFS4 storage. Use case: latency-sensitive / secure user-generated data. Config data and secrets.
 
-Backups: every hour per app and as a complete filesystem daily: 2 local copies, 2 offsite. (fast, secure, durable, expensive).
+Fast, secure, expensive. Highly durable.
+
+Backups: Local disk Rsync every 10 minutes. Encrypted offsite every 3 hours at app level, once daily as a complete filesystem. 2 local copies, 2 offsite.
 
 Currently storing: 409G
 Free: 1.4T
 
-QTnfs-slow: NAS backed NFS2/3 storage. Use case: media, software repositories. 2 local copies. 0(!) offsite. (fast reads, slow writes, cheap, low durability) 
+QTnfs-slow: NAS backed NFS2/3 storage. Use case: media, software repositories.
+
+Fast reads, slow writes, cheap but with low durability.
+
+Backups: Daily overnight copy to 12TB external USB3 disk. 2 local copies. 0(!) offsite.
 
 Currently storing: 11T
 Free: 522G
