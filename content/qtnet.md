@@ -16,7 +16,8 @@ The idea is to offer a follow-along guide to build your own stack with careful a
 
 All without devating from the promise of a low cost / Google-free private self-hosted tech stack for you and your family. 
 
-## User facing services:
+## User facing services
+
 QTmail: Postfix/Dovecot (currently on a raspberry pi 3 model b)
 
 QTwebmail: Roundcube Webmail (containerised)
@@ -39,7 +40,16 @@ QTsearch: Searx (containerised)
 
 QTwww: Uses GitLab CI/CD to build my site (leefuller.io) from Markdown files into a container with Nginx. Deploys into production container host on commit to Main branch. Deploys to staging on other branches. 
 
-## Internal facing services:
-QTnfs-fast: Internal storage. Mountable as NFS4 to VM or container workloads. Use case: latency-sensitive / sensitive user-generated data. Config data and secrets. Backed up by per app, as a complete filesystem + as Proxmox VM snapshot. 2 local, 2 offsite. (fast, secure, durable, expensive). Currently storing 409G with 1.4T free.
+## Storage as products
 
-QTnfs-slow: Internal storage. Mountable as NFS2/3 to VM/CT workloads. Use case: media, software repositories. Slow writes, fast reads. Daily 1:1 mirror copied to external disk. No offsite. Currently storing 11T with 522G free.
+QTnfs-fast: VM backed NFS4 storage. Use case: latency-sensitive / secure user-generated data. Config data and secrets.
+
+Backups: every hour per app and as a complete filesystem daily: 2 local copies, 2 offsite. (fast, secure, durable, expensive).
+
+Currently storing: 409G
+Free: 1.4T
+
+QTnfs-slow: NAS backed NFS2/3 storage. Use case: media, software repositories. 2 local copies. 0(!) offsite. (fast reads, slow writes, cheap, low durability) 
+
+Currently storing: 11T
+Free: 522G
