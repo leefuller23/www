@@ -44,9 +44,13 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/about/"
   weight = 3
   [[menu.nav]]
+  name = "Status"
+  url = "https://status.leefuller.io/"
+  weight = 4
+  [[menu.nav]]
   name = "RSS"
   url = "/index.xml"
-  weight = 4
+  weight = 5
 
 [markup]
   defaultMarkdownHandler = "goldmark"
