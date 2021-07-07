@@ -8,7 +8,8 @@ date: "2020-12-18"
 
 IT / networks / devops supergeek.
 
-[www@leefuller.io](mailto:www@leefuller.io)
+**Email**[site@leefuller.io](mailto:site@leefuller.io)
+**Matrix** @qtnet.lee:matrix.org
 
 ---
 ## Certs
