@@ -6,7 +6,7 @@ date: "2020-12-18"
 ---
 ## Me
 
-IT / networks / devops supergeek.
+Self-host everything!
 
 **Email** [site@leefuller.io](mailto:site@leefuller.io)
 
