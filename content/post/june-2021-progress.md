@@ -3,7 +3,7 @@ title: "June 2021 progress"
 date: 2021-06-20
 publishdate: 2021-06-20
 lastmod: 2021-06-20
-draft: false
+draft: true
 tags: ["qtnet", "devops"]
 ---
 
