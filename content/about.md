@@ -8,8 +8,6 @@ date: "2020-12-18"
 
 IT / networks / devops supergeek.
 
-Self host [**everything**](/qtnet/)**.**
-
 [www@leefuller.io](mailto:www@leefuller.io)
 
 ---
