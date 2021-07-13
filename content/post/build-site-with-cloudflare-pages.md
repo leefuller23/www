@@ -31,9 +31,9 @@ Before you get started you will need a GitHub account, a Cloudflare account and 
 
 Hugo allows us to manage text files in Markdown format. When we execute the Hugo binary in the root of our repository it processes the Markdown files and produces a finished HTML website, with pages linked together, uniform navigation etc. 
 
-If we were building our site to self-host it would be necessary to (download Hugo)[https://gohugo.io/getting-started/installing/] but because we are using Cloudflare Pages - this aspect is taken care of.
+Usually (if we weren't using Cloduflare Pages) it would be would be necessary to (download Hugo)[https://gohugo.io/getting-started/installing/] however this is taken care of. All we need to do is point Cloduflare Pages at our GitHub repo. 
 
-Each time we commit to our Main/Master branch Cloudflare will automatically rebuild the entire site and deploy it automatically. 
+Each time we commit to our Main/Master branch, Cloudflare will fetch the code, rebuild the entire site and deploy it automatically. 
 
 
 ## GitHub
