@@ -8,7 +8,7 @@ tags: ["website", "Hugo", "Cloudflare"]
 ---
 
 ```
-This post is a work in progress!
+This is a live draft! Work in progress! 
 ```
 
 ## Introduction
