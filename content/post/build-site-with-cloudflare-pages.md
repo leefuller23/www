@@ -7,7 +7,7 @@ draft: false
 tags: ["website", "Hugo", "Cloudflare"]
 ---
 
-```
+```bash
 This is a live draft! Work in progress! 
 ```
 
