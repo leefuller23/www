@@ -4,8 +4,8 @@ title = "LeeFuller.io"
 theme = "minimal-bootstrap-hugo-theme"
 disableKinds = ["taxonomies"]
 
-#[taxonomies]
-#  tag = "tags"
+[taxonomies]
+  tag = "tags"
 
 [permalinks]
   post = "/:filename/"
