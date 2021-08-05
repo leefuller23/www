@@ -36,10 +36,10 @@ disableKinds = taxonomies
   name = "Home"
   url = "/"
   weight = 1
-  [[menu.nav]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 2
+#  [[menu.nav]]
+#  name = "Tags"
+#  url = "/tags/"
+#  weight = 2
   [[menu.nav]]
   name = "About"
   url = "/about/"
