@@ -1,5 +1,5 @@
 ---
-title: "Max is a little bitch"
+title: "Max is a lil cutey"
 date: 2021-08-05
 ---
 
