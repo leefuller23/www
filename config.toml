@@ -12,7 +12,7 @@ theme = "minimal-bootstrap-hugo-theme"
 [params]
   description = "Lee Loves Rachel ♡♡♡"
   contentBackgroundColor = "#121212"
-  contentTextColor = "#fff"
+  contentTextColor = "#10ADED"
   contentLinkColor = "#00ff00"
   contentLinkHoverColor = "#fff"
   navbarBackgroundColor = "#4D5053"
