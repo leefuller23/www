@@ -4,24 +4,19 @@ date: 2021-07-12
 publishdate: 2021-07-12
 lastmod: 2021-07-12
 draft: false
-#tags: ["website", "Hugo", "Cloudflare"]
 ---
-
-```bash
-This is a live draft! Work in progress! 
-```
 
 ## Introduction
 
-This tutorial will show you how to create and host a website using Hugo, GitHub and Cloudflare Pages. 
+This is a quick tutorial on how I build / deploy my site.
 
-The end result will be a very fast, static website hosted directly on Cloudflare with inclusive DoS protection and CDN.
-
-If you already own your own domain name, then this whole project will cost you nothing.
+I maintain markdown files in a GitHub repo and using automation I get a super fast, reliable site hosted directly on Cloudflare CDN.
 
 ## What you need
 
-Before you get started you will need a GitHub account, a Cloudflare account and your own domain name.
+GitHub account (free)
+Cloudflare account (free)
+Domain name (free/cost)
 
 ## Hugo
 
@@ -29,11 +24,7 @@ Before you get started you will need a GitHub account, a Cloudflare account and 
 
 "Hugo is a fast and modern static site generator written in Go and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content." [0]
 
-Hugo allows us to manage text files in Markdown format. When we execute the Hugo binary in the root of our repository it processes the Markdown files and produces a finished HTML website, with pages linked together, uniform navigation etc. 
-
-Usually (if we weren't using Cloduflare Pages) it would be would be necessary to [download Hugo](https://gohugo.io/getting-started/installing/). The way Cloudflare Pages works means all we need to do is point Clodudflare Pages at our GitHub repo. 
-
-Each time we commit to our Main/Master branch, Cloudflare will fetch the code, rebuild the entire site and deploy it automatically. 
+Hugo allows us to manage text files in Markdown format. Cloudflare executes Hugo against your repo and builds site, this site is then deployed on CF CDN.
 
 
 ## GitHub
@@ -49,7 +40,7 @@ Find the file "config.toml" in the root of your repo. Edit it to add the theme a
 This is how mine looks:
 
 ```yaml
-baseURL = "/"
+baseURL = "https://leefuller.io/"
 languageCode = "en-us"
 title = "LeeFuller.io"
 theme = "minimal-bootstrap-hugo-theme"
@@ -57,10 +48,20 @@ theme = "minimal-bootstrap-hugo-theme"
 
 ## Cloudflare Pages
 
-...
+Sign into Cloudflare and browse to Pages
+
+Create new project.
+
+Link GitHub repo (may need to sign in and link GH and CF)
+
+Choose branch
 
 ## Cloudflare DNS
 
-...
+Create a cname for www AND @ (it is possible to create apex cname on CF despite not being possible according to DNS standard?!)
+
+In cname content use your Cloudflare Pages url (mine is www-6w4.pages.dev)
+
+That is it!
 
 [0] https://gohugo.io/about/what-is-hugo
