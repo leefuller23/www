@@ -11,7 +11,7 @@ theme = "minimal-bootstrap-hugo-theme"
   post = "/:filename/"
 
 [params]
-  description = "Lee Loves Rachel ♡♡♡"
+  description = "lee love rachel ♡"
   contentBackgroundColor = "#0e0b16"
   contentTextColor = "#e7dfdd"
   contentLinkColor = "#4717f6"
