@@ -33,7 +33,7 @@ Create an account if you need to. Get signed in. Clone the repo [gohugoio/HugoBa
 
 Create a new top level folder called "themes" and unpack a theme: [https://themes.gohugo.io/](https://themes.gohugo.io/)
 
-Your repo should look something like this...
+Your repo should look something like this... (You could also just clone my entire [repo](https://github.com/leefuller23/www/) and start with a clone of my site.)
 
 ![github repo example](/asset/build-site-with-cloudflare-pages/github.png)
 
@@ -41,7 +41,7 @@ The theme I use for my site is [zwbetz-gh/minimal-bootstrap-hugo-theme](https://
 
 Find the file "config.toml" in the root of your repo. Edit it to add the theme at the top:
 
-[click her eto see my config.toml](https://github.com/leefuller23/www/blob/main/config.toml)
+[click here to see my config.toml](https://github.com/leefuller23/www/blob/main/config.toml)
 
 ## Cloudflare Pages
 
