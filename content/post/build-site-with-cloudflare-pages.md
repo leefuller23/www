@@ -61,6 +61,8 @@ Create a cname for www AND @ (it is possible to create apex cname on CF despite 
 
 In cname content use your Cloudflare Pages url (mine is www-6w4.pages.dev)
 
-That is it!
+That is it. Every time you commit to your main/master branch, CF will pull the changes and redeploy your site automatically...
+
+![cloudfpare pages setup](/asset/build-site-with-cloudflare-pages/cf-pages-deploy.png)
 
 [0] https://gohugo.io/about/what-is-hugo
