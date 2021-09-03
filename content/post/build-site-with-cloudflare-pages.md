@@ -33,18 +33,15 @@ Create an account if you need to. Get signed in. Clone the repo [gohugoio/HugoBa
 
 Create a new top level folder called "themes" and unpack a theme: [https://themes.gohugo.io/](https://themes.gohugo.io/)
 
+Your repo should look something like this...
+
+![github repo example](/asset/build-site-with-cloudflare-pages/github.png)
+
 The theme I use for my site is [zwbetz-gh/minimal-bootstrap-hugo-theme](https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme)
 
 Find the file "config.toml" in the root of your repo. Edit it to add the theme at the top:
 
-This is how mine looks:
-
-```yaml
-baseURL = "https://leefuller.io/"
-languageCode = "en-us"
-title = "LeeFuller.io"
-theme = "minimal-bootstrap-hugo-theme"
-```
+[click her eto see my config.toml](https://github.com/leefuller23/www/blob/main/config.toml)
 
 ## Cloudflare Pages
 
@@ -54,7 +51,9 @@ Create new project.
 
 Link GitHub repo (may need to sign in and link GH and CF)
 
-Choose branch
+Choose branch, set custom domain
+
+![cloudfpare pages setup](/asset/build-site-with-cloudflare-pages/cf-pages.png)
 
 ## Cloudflare DNS
 
