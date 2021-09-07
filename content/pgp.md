@@ -2,7 +2,8 @@
 title: "PGP"
 date: "2021-09-07"
 ---
-```
+
+```bash
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGEVWo4BDADRqTsXRt7LVHBmpsYhdlVvi8QNytoi1eMc/IFpmQLpLLE2ifx3
