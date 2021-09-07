@@ -45,7 +45,7 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "https://status.leefuller.io/"
   weight = 3
   [[menu.nav]]
-  name = "PGP Key"
+  name = "PGP"
   url = "/pgp/"
   weight = 4
   [[menu.nav]]

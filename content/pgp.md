@@ -2,7 +2,7 @@
 title: "PGP"
 date: "2021-09-07"
 ---
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGEVWo4BDADRqTsXRt7LVHBmpsYhdlVvi8QNytoi1eMc/IFpmQLpLLE2ifx3
@@ -43,3 +43,4 @@ sT8z/ZLJNr81trrWsF9mh2G6Go2/K5VkA1Gb7pf7IRUzZ3kjzALOzx+/2iYKe9PW
 NgrQvBKxgg6ytN1ZE8hMhJksRw==
 =xb+1
 -----END PGP PUBLIC KEY BLOCK-----
+```
