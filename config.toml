@@ -36,17 +36,17 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "Home"
   url = "/"
   weight = 1
-#  [[menu.nav]]
-#  name = "Tags"
-#  url = "/tags/"
-#  weight = 2
   [[menu.nav]]
   name = "About"
   url = "/about/"
-  weight = 3
+  weight = 2
   [[menu.nav]]
   name = "Status"
   url = "https://status.leefuller.io/"
+  weight = 3
+  [[menu.nav]]
+  name = "PGP Key"
+  url = "/pgp/"
   weight = 4
   [[menu.nav]]
   name = "RSS"
