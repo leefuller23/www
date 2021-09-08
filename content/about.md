@@ -4,6 +4,7 @@ date: "2020-12-18"
 ---
 
 ---
+
 ## Contact
 
 **Email** [site@leefuller.io](mailto:site@leefuller.io)
@@ -11,6 +12,7 @@ date: "2020-12-18"
 **Matrix** @lee.qtnet:matrix.org
 
 ---
+
 ## My certs
 
 - CompTIA Systems Support Specialist
@@ -20,7 +22,7 @@ date: "2020-12-18"
 
 ---
 
-## My homepage
+## This website
 
 GitHub [leefuller23/www](https://github.com/leefuller23/www)
 
