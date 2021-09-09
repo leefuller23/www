@@ -14,7 +14,15 @@ I am pleased to launch my first publically accessible project.
 
 This is a hosted instance of the Element Matrix client. It can be used to sign-in to any Matrix server and register accounts. 
 
-It is currently running version 1.8.2. I will create a new post each time I deploy a new release. 
+## Why use it? 
+
+It is hosted directly on CloudFlare pages (along with the rest of my site) - so it is reliable and fast.
+
+It has the 'Labs' flag enabled in config, so you can toggle the experimental features not enabled in the 'production' version of Element.
+
+It has the Piwik/Matamo tracking disabled.
+
+Currently deployed release: 1.8.2
 
 
 
