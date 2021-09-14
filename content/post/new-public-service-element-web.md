@@ -22,7 +22,3 @@ It has the 'Labs' flag enabled in config, so you can toggle the experimental fea
 
 It has the Piwik/Matamo tracking disabled.
 
-Currently deployed release: 1.8.2
-
-
-
