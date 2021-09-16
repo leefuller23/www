@@ -5,16 +5,31 @@ date: "2020-12-18"
 
 ---
 
-## Contact
+Infrastructure specialist. 
 
-**Email** [site@leefuller.io](mailto:site@leefuller.io)
+Ceph
+Kubernetes
+Podman
+
+IaaS (DO, AWS, GCP)
+Automation (Ansible, Python, Shell)
+
+
+Currently working at an MSP company in UK.
+
+## contact
+
+**Email** [www@leefuller.io](mailto:site@leefuller.io)
 
 **Matrix** @lee.qtnet:matrix.org
 
+Not on any social media.
+
 ---
 
-## My certs
+## study + certs
 
+- Cisco CCNA (studying)
 - CompTIA Systems Support Specialist
 - CompTIA Linux+
 - CompTIA A+
@@ -22,7 +37,7 @@ date: "2020-12-18"
 
 ---
 
-## This website
+## site
 
 GitHub [leefuller23/www](https://github.com/leefuller23/www)
 
