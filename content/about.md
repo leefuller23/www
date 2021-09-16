@@ -27,7 +27,7 @@ Experience supporting Debian/Ubuntu/Pop_OS RedHat/CentOS/Fedora/Rocky
 
 **Matrix** @lee.qtnet:matrix.org
 
-Not on any social media. [You should quit too](https://duckduckgo.com/?q=social+media+harm+%2B+peer+reviewed+study).
+Not on any social media. [You should quit too](https://duckduckgo.com/?q=social+media+harm+peer+reviewed+study).
 
 ---
 
