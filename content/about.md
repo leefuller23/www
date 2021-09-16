@@ -5,11 +5,16 @@ lastmod: 2021-09-16
 ---
 Infrastructure specialist. Self-hosting fanatic.
 
+
 Ceph/GlusterFS
+
 Kubernetes/oVirt/OpenStack
+
 Docker/Podman
 
+
 IaaS (DO, AWS, GCP)
+
 Automation (Ansible, Python, Shell)
 
 ## contact
