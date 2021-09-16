@@ -5,29 +5,33 @@ lastmod: 2021-09-16
 ---
 Infrastructure specialist. Self-hosting fanatic.
 
+Experience supporting Debian/Ubuntu/Pop_OS RedHat/CentOS/Fedora/Rocky
 
-Ceph/GlusterFS
+[Pop_OS](https://pop.system76.com/) is my current daily driver.
 
-Kubernetes/oVirt/OpenStack
+---
 
-Docker/Podman
+**Storage:** Ceph/GlusterFS
 
+**Compute:** Kubernetes/oVirt/OpenStack
 
-IaaS (DO, AWS, GCP)
+**IaaS/PaaS:** (DO, AWS, GCP)
 
-Automation (Ansible, Python, Shell)
+**Automation:** (Ansible, Python, Shell, MQTT)
 
-## contact
+---
+
+## Contact me
 
 **Email** [www@leefuller.io](mailto:site@leefuller.io)
 
 **Matrix** @lee.qtnet:matrix.org
 
-Not on social media.
+Not on any social media. [You should quit too](https://duckduckgo.com/?q=social+media+harm+%2B+peer+reviewed+study).
 
 ---
 
-## study + certs
+## My study + certs
 
 - Cisco CCNA (studying)
 - CompTIA Systems Support Specialist
@@ -37,7 +41,7 @@ Not on social media.
 
 ---
 
-## my amazing site
+## This site
 
 Source on GitHub [leefuller23/www](https://github.com/leefuller23/www)
 
