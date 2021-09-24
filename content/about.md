@@ -1,19 +1,18 @@
 ---
 title: "About"
 date: "2020-12-18"
-lastmod: 2021-09-16
+lastmod: 2021-09-24
 ---
 Infrastructure specialist. Self-hosting fanatic.
 
-Experience supporting Debian/Ubuntu/Pop_OS RedHat/CentOS/Fedora/Rocky
+Experience supporting Debian/Ubuntu/Pop!_OS RedHat/CentOS/Fedora/Rocky
 
-[Pop_OS](https://pop.system76.com/) is my current daily driver.
+[Pop!_OS](https://pop.system76.com/) is my current daily driver.
 
 ---
+**Compute:** Kubernetes/oVirt/OpenStack
 
 **Storage:** Ceph/GlusterFS
-
-**Compute:** Kubernetes/oVirt/OpenStack
 
 **IaaS/PaaS:** (DO, AWS, GCP)
 
@@ -26,8 +25,6 @@ Experience supporting Debian/Ubuntu/Pop_OS RedHat/CentOS/Fedora/Rocky
 **Email** [www@leefuller.io](mailto:site@leefuller.io)
 
 **Matrix** @lee.qtnet:matrix.org
-
-Not on any social media. [You should quit too](https://duckduckgo.com/?q=social+media+harm+peer+reviewed+study).
 
 ---
 
