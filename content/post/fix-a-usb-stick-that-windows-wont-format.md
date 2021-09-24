@@ -13,9 +13,11 @@ cmd/powershell:
 diskpart
 list disk
 select disk X
+attributes disk clear readonly
+clean
 create partition primary
 select parttion 1
-fomart fs=far32 quick
+format fs=far32 quick
 ```
 
 Sorted
