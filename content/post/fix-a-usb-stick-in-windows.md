@@ -17,7 +17,7 @@ attributes disk clear readonly
 clean
 create partition primary
 select parttion 1
-format fs=far32 quick
+format fs=fat32 quick
 ```
 
 Hopefully that sorts it. If not, find your nearest GNU/Linux device and this single line will do it. Replace X in sdX so it matches your block device.
