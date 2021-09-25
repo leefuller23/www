@@ -61,8 +61,54 @@ Create a cname for www AND @ (it is possible to create apex cname on CF despite 
 
 In cname content use your Cloudflare Pages url (mine is www-6w4.pages.dev)
 
-That is it. Every time you commit to your main/master branch, CF will pull the changes and redeploy your site automatically...
+That is it. Every time you commit to your main/master branch, CF will pull the changes and redeploy[1] your site automatically.
 
 ![cloudfpare pages setup](/asset/build-site-with-cloudflare-pages/cf-pages-deploy.png)
 
 [0] https://gohugo.io/about/what-is-hugo
+
+[1]
+```bash
+14:04:42.334	Initializing build environment. This may take up to a few minutes to complete
+14:10:57.334	Success: Finished initializing build environment
+14:10:57.334	Cloning repository...
+14:11:01.037	Success: Finished cloning repository files
+14:11:01.298	Installing dependencies
+14:11:01.325	Python version set to 2.7
+14:11:04.691	v12.18.0 is already installed.
+14:11:05.041	Now using node v12.18.0 (npm v6.14.4)
+14:11:05.062	Started restoring cached build plugins
+14:11:05.076	Finished restoring cached build plugins
+14:11:05.433	Attempting ruby version 2.7.1, read from environment
+14:11:06.694	Using ruby version 2.7.1
+14:11:07.015	Using PHP version 5.6
+14:11:07.039	5.2 is already installed.
+14:11:07.042	Using Swift version 5.2
+14:11:07.042	Installing Hugo 0.80.0
+14:11:08.272	Hugo Static Site Generator v0.80.0-792EF0F4/extended linux/amd64 BuildDate: 2020-12-31T13:46:18Z
+14:11:08.273	Started restoring cached go cache
+14:11:08.275	Finished restoring cached go cache
+14:11:08.718	go version go1.14.4 linux/amd64
+14:11:08.722	go version go1.14.4 linux/amd64
+14:11:08.727	Installing missing commands
+14:11:08.727	Verify run directory
+14:11:08.727	Executing user command: hugo
+14:11:08.760	Start building sites … 
+14:11:08.896	
+14:11:08.896	                   | EN   
+14:11:08.896	-------------------+------
+14:11:08.896	  Pages            |  14  
+14:11:08.896	  Paginator pages  |   0  
+14:11:08.896	  Non-page files   |   0  
+14:11:08.896	  Static files     | 627  
+14:11:08.896	  Processed images |   0  
+14:11:08.897	  Aliases          |   0  
+14:11:08.897	  Sitemaps         |   1  
+14:11:08.897	  Cleaned          |   0  
+14:11:08.897	
+14:11:08.897	Total in 144 ms
+14:11:08.899	Finished
+14:11:08.899	Validating asset output directory
+14:11:09.246	Deploying your site to Cloudflare's global network...
+14:11:14.533	Success: Your site was deployed!
+```
