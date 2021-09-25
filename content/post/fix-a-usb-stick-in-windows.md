@@ -1,5 +1,5 @@
 ---
-title: "Fix a USB stick that Windows wont format"
+title: "Fix a USB stick in Windows"
 date: 2021-09-24
 ---
 
