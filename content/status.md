@@ -2,7 +2,14 @@
 title: "qtnet status (preview)"
 date: "2021-09-29"
 ---
-**App Uptime Status**
+## Known Issues
+
+**Affects qtflix:** Remote control currently broken by due to misconfigured front-end NGINX proxy. Fix coming.
+
+**Affects qtflix, qtcloud:** Home network still connected by 4G Three mobile connection.
+
+
+## App Uptime Status
 
 See the current status of qtnet apps
 
@@ -10,7 +17,7 @@ Helpful to confirm if it is down for everyone or just you
 
 [https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
 
-**Job Status**
+## Job Status
 
 
 We ping to Healthchecks.io when certain jobs complete successfully
