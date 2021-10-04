@@ -1,6 +1,6 @@
 ---
 title: "qtnet status (preview)"
-date: "2021-09-29"
+date: "2021-10-04"
 ---
 ## Known Issues
 
@@ -9,21 +9,17 @@ date: "2021-09-29"
 **Affects qtflix, qtcloud:** Home network still connected by 4G Three mobile connection.
 
 
-## App Uptime Status
+## App Availability Dashboard
 
-See the current status of qtnet apps
-
-Helpful to confirm if it is down for everyone or just you
+Helpful to confirm if it is down for everyone or just you.
 
 [https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
 
-## Job Status
+
+## Healthcheck status
 
 
-We ping to Healthchecks.io when certain jobs complete successfully
-
-
-If no ping is received the job shows here as late/down
+These badges show if backgroud processing, backups etc are working.
 
 
 qtnet-srv1 (heartbeat)
