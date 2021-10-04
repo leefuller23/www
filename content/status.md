@@ -4,7 +4,7 @@ date: "2021-09-29"
 ---
 ## Known Issues
 
-**Affects qtflix:** Remote control currently broken by due to misconfigured front-end NGINX proxy. Fix coming.
+**Affects qtflix:** Remote control currently affected by misconfigured front-end NGINX proxy. Fix coming!
 
 **Affects qtflix, qtcloud:** Home network still connected by 4G Three mobile connection.
 
