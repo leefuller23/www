@@ -11,19 +11,19 @@ date: "2021-09-29"
 
 ## App Uptime Status
 
-See the current status of qtnet apps
+See the current status of qtnet apps.
 
-Helpful to confirm if it is down for everyone or just you
+Helpful to confirm if it is down for everyone or just you.
 
 [https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
 
 ## Job Status
 
 
-We ping to Healthchecks.io when certain jobs complete successfully
+We ping to Healthchecks.io when certain jobs complete successfully.
 
 
-If no ping is received the job shows here as late/down
+If no ping is received the job shows here as late/down.
 
 
 qtnet-srv1 (heartbeat)
