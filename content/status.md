@@ -11,15 +11,27 @@ date: "2021-10-04"
 
 ## App Availability Dashboard
 
+<<<<<<< HEAD
+=======
+See the current status of qtnet apps.
+
+>>>>>>> 0fb00005b32213592095afe037746e1e48076dce
 Helpful to confirm if it is down for everyone or just you.
 
 [https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
 
 
+<<<<<<< HEAD
 ## Healthcheck status
 
 
 These badges show if backgroud processing, backups etc are working.
+=======
+We ping to Healthchecks.io when certain jobs complete successfully.
+
+
+If no ping is received the job shows here as late/down.
+>>>>>>> 0fb00005b32213592095afe037746e1e48076dce
 
 
 qtnet-srv1 (heartbeat)
