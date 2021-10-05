@@ -14,9 +14,9 @@ Experience supporting Debian/Ubuntu/Pop!_OS RedHat/CentOS/Fedora/Rocky
 
 **Storage:** Ceph/GlusterFS
 
-**IaaS/PaaS:** (DO, AWS, GCP)
+**IaaS/PaaS:** DO/AWS/GCP
 
-**Automation:** (Ansible, Python, Shell, MQTT)
+**Automation:** Ansible/Python/Shell/MQTT
 
 ---
 
@@ -28,9 +28,8 @@ Experience supporting Debian/Ubuntu/Pop!_OS RedHat/CentOS/Fedora/Rocky
 
 ---
 
-## My study + certs
+## Certs
 
-- Cisco CCNA (studying)
 - CompTIA Systems Support Specialist
 - CompTIA Linux+
 - CompTIA A+
