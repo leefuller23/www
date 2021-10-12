@@ -4,7 +4,7 @@ date: "2021-10-04"
 ---
 ## Known Issues
 
-**Affects qtflix:** Remote control currently affected by misconfigured front-end NGINX proxy. Fix coming!
+**Affects qtflix:** ~~Remote control currently affected by misconfigured front-end NGINX proxy. Fix coming!~~
 
 **Affects qtflix, qtcloud:** Home network still connected by 4G Three mobile connection.
 
@@ -18,10 +18,12 @@ Helpful to confirm if it is down for everyone or just you.
 [https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
 
 
-We ping to Healthchecks.io when certain jobs complete successfully.
+## Heartbeat
+
+We send a heartbeat to HealthChecks.io periodically and certain jobs complete successfully.
 
 
-If no ping is received the job shows here as late/down.
+If no heartbeat is received the job shows here as late/down.
 
 
 qtnet-srv1 (heartbeat)
