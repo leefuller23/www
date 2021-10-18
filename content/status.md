@@ -21,40 +21,30 @@ Helpful to confirm if it is down for everyone or just you.
 [https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
 
 
-## Heartbeat
+## Job Completion
 
 THIS SECTION IS A PRETTY PLACEHOLDER AND THE CHECKS DONT WORK YET!
 
-We send a heartbeat to HealthChecks.io periodically and when certain jobs complete successfully.
-
+We send a heartbeat to HealthChecks.io when certain jobs complete.
 
 If no heartbeat is received the job shows here as late/down.
 
 
-qtnet-srv1 (every 30s)
-![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
-
-qtnet-srv2 (every 30)
-![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
-
-qtnet-srv3 (every 30)
-![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
-
-qtcloud/Nextcloud (offsite backup job completion, once every 3 hours)
+qtcloud/Nextcloud (offsite backup)
 ![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
 
 
-qtflix/Emby (offsite backup job completion, once every 24 hours)
+qtflix/Emby (offsite backup)
 ![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
 
 
-qtsync/Syncthing (offsite backup job completion, once every 3 hours)
+qtsync/Syncthing (offsite backup)
 ![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
 
 
-qtnet-appdata/NFS (onsite backup job completion, once every 30 minutes)
+qtnet-appdata/NFS (onsite backup)
 ![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
 
 
-qtmedia/NFS (onsite backup job completion, once every 24 hours)
+qtmedia/NFS (onsite backup)
 ![test1 status](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/VMPDtvYy/test1.svg)
