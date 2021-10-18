@@ -8,7 +8,7 @@ date: "2021-10-04"
 
 **Affects qtflix, qtcloud:** Home network still connected by 4G Three mobile connection. (Updated: 02 Feb 2021)
 
-**[fixed]Affects qtflix:** Remote control affected by misconfigured front-end NGINX proxy. (Fixed: 04 Oct 2021)
+**[fixed]Affects qtflix:** Remote control affected by misconfigured front-end NGINX proxy. (Fixed: 12 Oct 2021)
 
 
 
