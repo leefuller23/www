@@ -3,13 +3,14 @@ title: "qtnet status"
 date: "2021-10-04"
 ---
 ## Known Issues
+```bash
+**Affects qtflix:** Emby app not working on LG and Samsung TVs caused by LetsEncrypt root CA expiration. (Updated: 17 Oct 2021)
 
-```**Affects qtflix:** Emby app not working on LG and Samsung TVs caused by LetsEncrypt root CA expiration. (Updated: 17 Oct 2021)```
+**Affects qtflix, qtcloud:** Home network still connected by 4G Three mobile connection. (Updated: 02 Feb 2021)
 
-```**Affects qtflix, qtcloud:** Home network still connected by 4G Three mobile connection. (Updated: 02 Feb 2021)```
+**[fixed]Affects qtflix:** Remote control affected by misconfigured front-end NGINX proxy. (Fixed: 12 Oct 2021)
 
-```**[fixed]Affects qtflix:** Remote control affected by misconfigured front-end NGINX proxy. (Fixed: 12 Oct 2021)```
-
+```
 
 
 ## App Availability Dashboard
