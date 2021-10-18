@@ -13,7 +13,7 @@ Emby app not working on LG and Samsung TVs caused by LetsEncrypt root CA expirat
 
 
 ```bash
-Affects qtflix, qtcloud, qtchat, qtgit, qtcontainer registry, qtcctv
+Affects: qtflix, qtcloud, qtchat, qtgit, qtcontainer registry, qtcctv
 Status: ONGOING (Updated: 02 Feb 2021)
 
 Home network still connected by 4G Three mobile connection.
