@@ -5,10 +5,12 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
-Affects: qtflix
-Status: ONGOING (Updated: 17 Oct 2021)
+Affects: qtflix, qtcloud, qtchat, qtcctv, qtvpn
+Status: HAPPENING NOW (Updated: 30 Oct 2021)
 
-Emby app not working on LG and Samsung TVs caused by LetsEncrypt root CA expiration.
+Scheduled maintenence (retiring qtnet-srv1 as it is a power hungry moster). Bringing new server online qtnet-srv2. Electricity reduction expected to be greater than > 300w.
+
+Intermittent outages expected until further notice! Sorry!!
 ```
 
 ```bash
