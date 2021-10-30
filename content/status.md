@@ -6,11 +6,15 @@ date: "2021-10-27"
 
 ```bash
 Affects: qtflix, qtcloud, qtchat, qtcctv, qtvpn
-Status: HAPPENING NOW (Updated: 30 Oct 2021)
+Status: MAINTENENCE HAPPENING NOW (Updated: 30 Oct 2021)
 
-Scheduled maintenence (retiring qtnet-srv1 as it is a power hungry moster). Bringing new server online qtnet-srv2. Electricity reduction expected to be greater than > 300w.
+Retiring qtnet-srv1. Going forward this device will see occasional use for development and testing.
 
-Intermittent outages expected until further notice! Sorry!!
+Migrating storage and containers to new server: qtnet-srv2.
+
+This will reduce the amount of CPU and RAM but will increase storage speed significantly and reduce the power consumption by over 300w.
+
+Intermittent outages expected until further notice!
 ```
 
 ```bash
