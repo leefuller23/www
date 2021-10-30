@@ -12,7 +12,7 @@ Retiring qtnet-srv1. Going forward this device will see occasional use for devel
 
 Migrating storage and containers to new server: qtnet-srv2.
 
-This will reduce the amount of CPU and RAM but will increase storage speed significantly and reduce the power consumption by over 300w.
+This will reduce the amount of CPU and RAM but will increase storage speed and capacity (thanks to all SSD storage) and reduce the power consumption by over 300w.
 
 Intermittent outages expected until further notice!
 ```
