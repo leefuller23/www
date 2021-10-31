@@ -6,19 +6,6 @@ date: "2021-10-27"
 
 ```bash
 Affects: qtflix, qtcloud, qtchat, qtcctv, qtvpn
-Status: MAINTENENCE HAPPENING NOW (Updated: 30 Oct 2021)
-
-Retiring qtnet-srv1. Going forward this device will see occasional use for development and testing.
-
-Migrating storage and containers to new server: qtnet-srv2.
-
-This will reduce the amount of CPU and RAM but will increase storage speed and capacity (thanks to all SSD storage) and reduce the power consumption by over 300w.
-
-Intermittent outages expected until further notice!
-```
-
-```bash
-Affects: qtflix, qtcloud, qtchat, qtcctv, qtvpn
 Status: ONGOING (Updated: 02 Feb 2021)
 
 Home network still connected by 4G Three mobile connection.
