@@ -1,9 +1,7 @@
 ---
 title: "Element Web updated to 1.8.4"
 date: 2021-09-14
-publishdate: 2021-09-14
-lastmod: 2021-09-14
-draft: false
+unlisted: true
 ---
 
 ## Security fixes for Element Web

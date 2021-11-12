@@ -1,6 +1,7 @@
 ---
 title: "Element Web updated to 1.8.5"
 date: 2021-09-24
+unlisted: true
 ---
 [leefuller.io/element](https://leefuller.io/element) has been updated to Element 1.8.5
 
