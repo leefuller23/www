@@ -5,14 +5,14 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
-Affects: qtflix, qtcloud, qtchat, qtcctv, qtvpn
+Affects: qtflix, qtcloud, qtcctv, qtvpn
 Status: RESOLVED (Updated: 12 Feb 2021)
 
 Brief outages on Nov 10 and Nov 12 caused by DNS misconfiguration. Issue has been identified and resolved.
 ```
 
 ```bash
-Affects: qtflix, qtcloud, qtchat, qtcctv, qtvpn
+Affects: qtflix, qtcloud, qtcctv, qtvpn
 Status: ONGOING (Updated: 02 Feb 2021)
 
 Home network still connected by 4G Three mobile connection.
