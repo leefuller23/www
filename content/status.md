@@ -5,6 +5,13 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
+Affects: qtflix
+Status: ONGOING (Updated: 14 Feb 2021)
+
+Certain media objects requiring transcoding are failing on qtflix due to higher CPU levels from other tasks.
+```
+
+```bash
 Affects: qtflix, qtcloud, qtcctv, qtvpn
 Status: RESOLVED (Updated: 12 Feb 2021)
 
