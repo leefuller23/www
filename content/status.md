@@ -8,7 +8,7 @@ date: "2021-10-27"
 Affects: qtflix
 Status: ONGOING (Updated: 14 Feb 2021)
 
-Certain media objects requiring transcoding are failing on qtflix due to higher CPU levels from other tasks.
+A subset of items that require real-time transcoding are currently degraded and buffering.
 ```
 
 ```bash
