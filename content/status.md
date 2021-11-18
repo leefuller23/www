@@ -34,3 +34,7 @@ Deployments, backups etc are monitored and reported here.
 ![qtnet appdata onsite backup](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/JxBzFqXG/qtnet-appdata-onsite-backup.svg)
 
 ![qtnet appdata offsite backup](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/XbVP_pmg/qtnet-appdata-offsite-backup.svg)
+
+
+
+A live feed of events (commits, deploys, alarms etc) is available in qtchat channel [qtnet DevOps](https://chat.leefuller.io/qtchat-official/channels/qtnet-devops).
