@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
-No known issues. Got something to report? Use email/qtchat/matrix. 
+No known issues.
 ```
 
 ***
