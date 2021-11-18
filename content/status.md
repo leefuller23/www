@@ -2,7 +2,7 @@
 title: "qtnet status"
 date: "2021-10-27"
 ---
-## Current Known Issues
+## Known Issues
 
 ```bash
 No known issues. Got something to report? Use email/qtchat/matrix. 
