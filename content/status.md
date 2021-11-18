@@ -29,6 +29,6 @@ Backups, DNS updates etc that happen on a fixed schedule are monitored and repor
 
 ![qtmedia onsite backup](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/IFtexcuC/qtmedia-onsite-backup.svg)
 
-![qtnet appdata onsite backup]( https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/JxBzFqXG/qtnet-appdata-onsite-backup.svg)
+![qtnet appdata onsite backup](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/JxBzFqXG/qtnet-appdata-onsite-backup.svg)
 
-![qtnet appdata offsite backup]( https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/XbVP_pmg/qtnet-appdata-offsite-backup.svg)
+![qtnet appdata offsite backup](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/XbVP_pmg/qtnet-appdata-offsite-backup.svg)
