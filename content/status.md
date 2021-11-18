@@ -13,7 +13,7 @@ No known issues.
 ***
 
 
-## StatusCake Page
+## Up/down Status
 
 Current up/down status of qtnet apps as observed by a third-party monitoring service.
 
@@ -23,9 +23,9 @@ Current up/down status of qtnet apps as observed by a third-party monitoring ser
 ***
 
 
-## Background Tasks
+## Scheduled Tasks
 
-Backups, DNS updates etc that happen on a fixed schedule are monitored and reported here.
+Deployments, backups etc are monitored and reported here.
 
 ![DNS update](https://healthchecks.io/badge/929328ec-f605-456e-b65c-7912ee/4Dz0Lfus/dns-update.svg)
 
