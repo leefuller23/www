@@ -2,34 +2,21 @@
 title: "qtnet status"
 date: "2021-10-27"
 ---
-## Known Issues
-
-```bash
-Affects: qtflix
-Status: ONGOING (Updated: 14 Feb 2021)
-
-A subset of items that require real-time transcoding are currently degraded and buffering.
+## Current Known Issues
+{{/*
 ```
+IMPACTED SERVICE: qtflix
 
-```bash
-Affects: qtflix, qtcloud, qtcctv, qtvpn
-Status: RESOLVED (Updated: 12 Feb 2021)
+UPDATED: 18 Feb 2021
 
-Brief outages on Nov 10 and Nov 12 caused by DNS misconfiguration. Issue has been identified and resolved.
+This is the incident body. 
 ```
+*/}}
 
-```bash
-Affects: qtflix, qtcloud, qtcctv, qtvpn
-Status: ONGOING (Updated: 02 Feb 2021)
+## 3rd Party Status Page
 
-Home network still connected by 4G Three mobile connection.
-```
+Current up/down status of qtnet apps as observed by a 3rd party monitoring service.
 
-
-## App Availability Dashboard
-
-See the current status of qtnet apps.
-
-Helpful to confirm if it is down for everyone or just you.
+Helpful to confirm if it is down for everyone or just you. Updates automatically every 5 minutes.
 
 [https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
