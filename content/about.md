@@ -7,7 +7,7 @@ Infrastructure specialist. Self-hosting fanatic.
 
 Experience supporting Debian/Ubuntu/Pop!_OS RedHat/CentOS/Fedora/Rocky
 
-[Pop!_OS](https://pop.system76.com/) is my current daily driver.
+also Windows.
 
 ---
 **Compute:** Kubernetes/oVirt/OpenStack
