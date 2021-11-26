@@ -5,9 +5,7 @@ lastmod: 2021-09-24
 ---
 Infrastructure specialist. Self-hosting fanatic.
 
-Experience supporting Debian/Ubuntu/Pop!_OS RedHat/CentOS/Fedora/Rocky
-
-also Windows.
+Experience supporting Debian/Ubuntu/Pop!_OS RedHat/CentOS/Fedora/Rocky.
 
 ---
 **Compute:** Kubernetes/oVirt/OpenStack
