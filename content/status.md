@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
-No known issues.
+Ongoing bad weather affecting 4G LTE connection to Three mobile.
 ```
 
 
