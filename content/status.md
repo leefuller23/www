@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
-Saturday 18 December: Services are under maintenence all day until this message is removed.
+Saturday 18 December: Backend storage outage affecting qtflix.
 ```
 
 
