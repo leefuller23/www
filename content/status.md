@@ -3,12 +3,14 @@ title: "qtnet status"
 date: "2021-10-27"
 ---
 
-## Known Issues
+## Current / Recent Issues
 
 ```bash
-Wednesday 22 December: (Restoring) qtcloud outage began at 1345pm. Service did not come back up after scheduled container pull and upgrade. Reverted to previous data and currently rebuilding caches.
+Wednesday 22 December: (Fixed) qtcloud outage began at 1345pm and lasted for about 14 minutes.
 
-Saturday 18 December: (Fixed) Backend storage outage affected qtflix between 1am and 0945am
+Saturday 18 December: (Fixed) Backend storage outage affected qtflix between 1am and 1053am
+
+(see fixed/past issues at bottom of page)
 ```
 
 
@@ -40,3 +42,7 @@ Deployments, backups etc are monitored and reported here.
 
 
 A live feed of events (commits, deploys, alarms etc) is available in qtchat channel [qtnet DevOps](https://chat.leefuller.io/qtchat-official/channels/qtnet-devops).
+
+* * *
+
+# Fixed / Past Issues
