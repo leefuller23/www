@@ -6,9 +6,9 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
-Wednesday 22 December: qtcloud outage 1345pm ongoing. Service did not come back up after scheduled container restart.
+Wednesday 22 December: (Restoring) qtcloud outage began at 1345pm. Service did not come back up after scheduled container pull and upgrade. Reverted to previous data and currently rebuilding caches.
 
-Saturday 18 December: Backend storage outage aggected qtflix between 1am and 0945am
+Saturday 18 December: (Fixed) Backend storage outage affected qtflix between 1am and 0945am
 ```
 
 
