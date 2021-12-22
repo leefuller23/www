@@ -8,8 +8,6 @@ date: "2021-10-27"
 ```bash
 Wednesday 22 December: (Fixed) qtcloud outage began at 1345pm and lasted for about 14 minutes.
 
-Saturday 18 December: (Fixed) Backend storage outage affected qtflix between 1am and 1053am
-
 (see fixed/past issues at bottom of page)
 ```
 
@@ -46,3 +44,7 @@ A live feed of events (commits, deploys, alarms etc) is available in qtchat chan
 * * *
 
 # Fixed / Past Issues
+
+```bash
+Saturday 18 December: (Fixed) Backend storage outage affected qtflix between 1am and 1053am
+```
