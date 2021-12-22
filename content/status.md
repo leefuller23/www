@@ -6,7 +6,9 @@ date: "2021-10-27"
 ## Known Issues
 
 ```bash
-Saturday 18 December: Backend storage outage affecting qtflix.
+Wednesday 22 December: qtcloud outage 1345pm ongoing 
+
+Saturday 18 December: Backend storage outage aggected qtflix between 1am and 0945am
 ```
 
 
