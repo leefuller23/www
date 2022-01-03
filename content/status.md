@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```bash
-No issues
+Jan 02 2022: Services were down between 0200 and 1055 AM due to a hardware failure incident. 
 ```
 
 
