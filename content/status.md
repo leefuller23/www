@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```bash
-Jan 02 2022: Services were down between 0200 and 1055 AM due to a hardware failure incident. 
+Jan 18 2022: Services were degraded between 1930 and 2010 due to a backend storage issue. 
 ```
 
 
