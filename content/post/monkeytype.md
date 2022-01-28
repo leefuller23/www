@@ -1,6 +1,6 @@
 ---
 title: "Monkeytype High Scores"
-date: 2022--24
+date: 2022-01-28
 ---
 
 My child introduced me to [monkeytype](https://monkeytype.com/) and it was love at first sight.
