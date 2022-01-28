@@ -14,3 +14,7 @@ This page is for high scores, send me yours on qtchat and I will post it here =)
 ## Mason's
 
 ![Mason's monkeytype high score](/asset/monkeytype/mason1.png)
+
+## Netti Champs'
+
+![Netti's monkeytype high score](/asset/monkeytype/netti1.png)
