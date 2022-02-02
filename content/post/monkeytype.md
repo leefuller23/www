@@ -7,14 +7,14 @@ My child introduced me to [monkeytype](https://monkeytype.com/) and it was love 
 
 This page is for high scores, send me yours on qtchat and I will post it here =)
 
-## Mine
+## Lee
 
 ![Lee's monkeytype high score](/asset/monkeytype/lee1.png)
 
-## Mason's
+## Mason
 
 ![Mason's monkeytype high score](/asset/monkeytype/mason1.png)
 
-## Netti Champs'
+## Netti Champs
 
 ![Netti's monkeytype high score](/asset/monkeytype/netti1.png)
