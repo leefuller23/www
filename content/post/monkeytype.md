@@ -18,3 +18,8 @@ This page is for high scores, send me yours on qtchat and I will post it here =)
 ## Netti Champs
 
 ![Netti's monkeytype high score](/asset/monkeytype/netti1.png)
+
+## Max
+
+![Max's monkeytype high score](/asset/monkeytype/max1.png)
+
