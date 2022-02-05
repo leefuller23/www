@@ -1,20 +1,20 @@
 ---
 title: "About"
 date: "2020-12-18"
-lastmod: 2021-09-24
+lastmod: 2022-02-04
 ---
 Infrastructure specialist. Self-hosting fanatic.
 
-Experience supporting Debian/Ubuntu/Pop!_OS RedHat/CentOS/Fedora/Rocky.
+Experience supporting Debian/Ubuntu/PopOS RedHat/CentOS/Fedora + Windows in production.
 
 ---
 **Compute:** Kubernetes/oVirt/OpenStack
 
 **Storage:** Ceph/GlusterFS
 
-**IaaS/PaaS:** DO/AWS/GCP
+**IaaS/PaaS:** DO/Linode/AWS/GCP/Azure
 
-**Automation:** Ansible/Python/Shell/MQTT
+**Automation:** Ansible/Python/Shell/MQTT/Bash/Powershell
 
 ---
 
