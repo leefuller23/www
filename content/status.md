@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```bash
-Sat 5 Feb 2022 1200 to 1300 - Scheduled Maintenence! Around 5 minutes of real downtime.
+Sat 5 Feb 2022 1200 to 1300 - Scheduled Maintenence!
 ```
 
 
