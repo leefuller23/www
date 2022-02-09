@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```bash
-Sat 5 Feb 2022 1200 to 1300 - Scheduled Maintenence!
+Wed 09 Feb 2022 - Email notifications from qtchat and qtcloud are currently paused. If you need to email a sharing link please copy and paste into your email client!
 ```
 
 
