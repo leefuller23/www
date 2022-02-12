@@ -45,8 +45,8 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/status/"
   weight = 3
   [[menu.nav]]
-  name = "PGP"
-  url = "/pgp/"
+  name = "Links"
+  url = "/links/"
   weight = 4
   [[menu.nav]]
   name = "RSS"
