@@ -3,8 +3,6 @@ title: "Links"
 date: "2022-02-12"
 ---
 
-## Links
-
 [RachelByTheBay.com/w/](https://rachelbythebay.com/w/)
 
 Stories about engineering software, GNU/Linux and general sysadmin stuff. Probably my favourite blog. Also via [RSS](https://rachelbythebay.com/w/atom.xml)
