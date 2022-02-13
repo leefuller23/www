@@ -20,9 +20,9 @@ Experience supporting Debian/Ubuntu/PopOS RedHat/CentOS/Fedora + Windows in prod
 
 ## Contact me
 
-**qtchat** @lee https://chat.leefuller.io
+**qtchat** [@lee](https://chat.leefuller.io/qtchat-official/messages/@lee)
 
-**Email** [www@leefuller.io](mailto:site@leefuller.io) [(PGP key)](https://leefuller.io/pgp/)
+**Email** [www@leefuller.io](mailto:www@leefuller.io) [(PGP key)](https://leefuller.io/pgp/)
 
 **Matrix** @lee.qtnet:matrix.org
 
