@@ -5,8 +5,8 @@ date: "2021-10-27"
 
 ## Current / Recent Issues
 
-```bash
-Wed 09 Feb 2022 - Email notifications from qtchat and qtcloud are currently paused.
+```python
+Sun 13 Feb 2022 - Email notifications from qtchat are now working again. We expect email notifications from qtcloud to resume in the coming days..
 ```
 
 
