@@ -9,7 +9,6 @@ date: "2021-10-27"
 Feb 18 - Ongoing. Service disruption due to ongoing storm.
 
 Feb 13 - Ongoing. Email notifications from qtcloud are paused.
-
 ```
 
 
