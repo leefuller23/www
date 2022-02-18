@@ -6,7 +6,10 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```python
-Sun 13 Feb 2022 - Email notifications from qtchat are now working again. We expect email notifications from qtcloud to resume in the coming days..
+Friday 18 Feb 2022 - Ongoing. Service disruption due to ongoing storm.
+
+Feb 13 - Ongoing. Email notifications from qtcloud are paused.
+
 ```
 
 
