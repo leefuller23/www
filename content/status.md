@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```python
-Friday 18 Feb 2022 - Ongoing. Service disruption due to ongoing storm.
+Feb 18 - Ongoing. Service disruption due to ongoing storm.
 
 Feb 13 - Ongoing. Email notifications from qtcloud are paused.
 
