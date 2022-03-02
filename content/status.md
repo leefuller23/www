@@ -6,8 +6,6 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```python
-Feb 21 - Ongoing. Expecting connectivitu issues due to current high wind.
-
 Feb 13 - Ongoing. Email notifications from qtcloud are paused.
 ```
 
