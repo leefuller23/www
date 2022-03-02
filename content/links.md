@@ -2,7 +2,12 @@
 title: "Links"
 date: "2022-02-13"
 ---
-This is my personal bookmarks list!
+"Tell me and I forget. Show me and I remember. Involve me and I understand."
+Chinese proverb.
+
+[PPCVision.io](https://www.ppcvision.io/)
+
+PPC/SEO optimisation business run by my friend Dan Rospedzihowski.
 
 * * *
 [RanPrieur.com](https://ranprieur.com)
