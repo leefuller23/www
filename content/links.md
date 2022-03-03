@@ -6,6 +6,8 @@ date: "2022-02-13"
 
 Chinese proverb.
 
+Here are my favourite links! 
+
 [SelfHostedHeaven.com](https://selfhostedheaven.com/)
 
 Amazing self-hosting blog.
