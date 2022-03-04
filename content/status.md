@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```python
-No known issues!
+No known issues
 ```
 
 
