@@ -2,9 +2,6 @@
 title: "Links"
 date: "2022-02-13"
 ---
-"Tell me and I forget. Show me and I remember. Involve me and I understand."
-
-Chinese proverb.
 
 [SelfHostedHeaven.com](https://selfhostedheaven.com/)
 
