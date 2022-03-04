@@ -26,7 +26,6 @@
     "bug_report_endpoint_url": "https://element.io/bugreports/submit",
     "uisi_autorageshake_app": "element-auto-uisi",
     "defaultCountryCode": "GB",
-    "showLabsSettings": false,
     "features": { },
     "default_federate": true,
     "default_theme": "light",
