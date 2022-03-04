@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```python
-Feb 13 - Ongoing. Email notifications from qtcloud are paused.
+No known issues!
 ```
 
 
