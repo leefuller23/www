@@ -3,6 +3,9 @@ title: "Links"
 date: "2022-02-13"
 ---
 
+[https://0ut3r.space/2022/03/06/windows-defender/](Windows Defender is enough, if you harden it)
+
+* * *
 [SelfHostedHeaven.com](https://selfhostedheaven.com/)
 
 Amazing self-hosting blog.
