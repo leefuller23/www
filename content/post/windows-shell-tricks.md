@@ -12,7 +12,7 @@ A big part of my working day at $JOB is spent troubleshooting Windows endpoints.
 
 This page helps me to remember handy Windows shell tricks!
 
-This page is a work in progress! Email me ideas to winshell@leefuller.io and i will credit you!!
+This page is a work in progress! Please send comments and feedback to www@leefuller.io - thanks :) 
 
 ## Stop Windows lock
 
