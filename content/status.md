@@ -6,9 +6,8 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```python
-March 16 0547 - Ongoing outage affecting qtcctv, qtcloud, qtflix, qtsearch and qtvpn. Likely to be down until 1900 today.
+March 27 2022 - April 03 2022 - qtcctv, qtcloud, qtflix, qtsearch and qtvpn will be unavailable due to planned maintenence! qtchat and leefuller.io will be unaffected.
 
-Starting 2346 on 10 March 2022 there was a 7 hour outage caused by server crash. Services restored at 0735 on 11 March 2022. Affected services: qtcctv, qtcloud, qtflix, qtsearch and qtvpn. Thanks to Netti Champs for waking up at 0630 AM and working to restore services remotely! ❤️
 ```
 
 
