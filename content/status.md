@@ -6,8 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```python
-March 27 2022 - April 03 2022 - qtcctv, qtcloud, qtflix, qtsearch and qtvpn will be unavailable due to planned maintenence! qtchat and leefuller.io will be unaffected.
-
+March 27 2022 - April 03 2022 - qtcctv, qtcloud, qtflix, qtsearch and qtvpn will be affected by an equipment move from Mum's house to mine! Expect these services to be down or degraded for the entire duration of the move.
 ```
 
 
