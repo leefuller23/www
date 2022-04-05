@@ -6,7 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```
-March 26 2022 - April 03 2022 - qtcctv, qtcloud, qtflix, qtsearch and qtvpn will be affected by an equipment move from Mum's house to mine! Expect these services to be down or degraded for the entire duration of the move, but much more performant and reliable afterwards. qtchat will be unaffected.
+March 26 2022 - ~~April 03 2022~~ STILL ONGOING SORRY - Situation more stable. Have setup more detailed monitoring. Hope to get to bottom of issues soon.
 
 April 07 2022 - All Day. Our ISP has informed us they are carrying out maintenence work to the network in our area on this day.
 ```
