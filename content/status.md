@@ -6,9 +6,7 @@ date: "2021-10-27"
 ## Current / Recent Issues
 
 ```
-March 26 2022 - ~~April 03 2022~~ STILL ONGOING SORRY - Situation more stable. Have setup more detailed monitoring. Hope to get to bottom of issues soon.
-
-April 07 2022 - All Day. Our ISP has informed us they are carrying out maintenence work to the network in our area on this day.
+No current issues.
 ```
 
 
