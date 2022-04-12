@@ -42,7 +42,7 @@ theme = "minimal-bootstrap-hugo-theme"
   weight = 2
   [[menu.nav]]
   name = "Status"
-  url = "/status/"
+  url = "https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z"
   weight = 3
   [[menu.nav]]
   name = "Links"
