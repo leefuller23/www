@@ -2,26 +2,24 @@
 title: "Windows shell tricks"
 date: 2022-03-11
 publishdate: 2022-03-11
-lastmod: 2022-03-11
+lastmod: 2022-04-21
 draft: false
 ---
 
 ## Hello, Windows Fans!
 
-A big part of my working day at $JOB is spent troubleshooting Windows server, windows 10, 11. Also XP, Vista 7 8 8.1, 2008, 20012, 20012R2, 2016, 2019. Cloud, on-prem (shout out to the on prem heros) and hybrid.
+A big part of my working day is spent troubleshooting Windows server, windows 10, 11. Also XP, Vista 7 8 8.1, 2008, 20012, 20012R2, 2016, 2019. Cloud, on-prem (shout out to the on prem heros) and hybrid.
 
-It is worth adding all those commands to one big page so I can CTRL-F and find them all.
-
-This page is a work in progress! Last update: 06/04/2022 - . Send them to windowsisgr8@leefuller.io or write to me on qtchat or matrix :)
+It is worth adding all those commands to one big page so I can CTRL-F and find them all. It's a work in progress.
 
 ## Thanks
 Will: user profile list/delete with powershell + 365 message trace 
 
 ## Sections
-[[0] Basic Windows stuff]{#0basicwin}
+[0] Basic Windows stuff
 [1] Office365 powershell stuff
 
-## [0] Basic Windows stuff {#0basicwin}
+## [0] Basic Windows stuff
 
 ## Stop Windows lock
 
@@ -66,14 +64,7 @@ Get-WmiObject -Class Win32_UserProfile | Where-Object {$_.Special -ne 'Special'}
 Get-CimInstance -Class Win32_UserProfile | Where-Object { $_.LocalPath.split('\')[-1] -eq 'User' ] | Remove-CimInstance 
 ```
 
-## [1] Office365 powershell
-
-## Authenticate 355 powershell with 2fa support
-Run this before every powershell session below to authenticate with 2fa.
-
-```powershell
-Oops no code.
-```
+## [1] Office365/AzureAD/Intune stuff
 
 ## Add aad/intune user to localadmin group (cmd)
 
