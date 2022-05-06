@@ -5,6 +5,8 @@ lastmod: 2022-02-04
 ---
 Infrastructure specialist. Self-hosting fanatic.
 
+Junior Cybersecurity Analyst.
+
 Experience supporting Debian/Ubuntu/PopOS RedHat/CentOS/Fedora + Windows in production.
 
 ---
