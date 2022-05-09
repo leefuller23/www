@@ -3,7 +3,17 @@ title: "Links"
 date: "2022-02-13"
 ---
 
+[Modern-Work.uk](https://modern-work.uk/)
+
+Blog focusing on Office365 advanced, security upcoming feature topics
+
+[Tmux session switching bindings](https://waylonwalker.com/tmux-fzf-session-jump/)
+
+Couple helpful snippets (and an optional youtube video)
+
 [Windows Defender is enough, if you harden it](https://0ut3r.space/2022/03/06/windows-defender/)
+
+Secure windows defender with some reg tweaks.
 
 * * *
 [SelfHostedHeaven.com](https://selfhostedheaven.com/)
