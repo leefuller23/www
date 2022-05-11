@@ -5,7 +5,7 @@ date: "2022-02-13"
 
 [Modern-Work.uk](https://modern-work.uk/)
 
-Blog focusing on Office365 advanced, security upcoming feature topics
+Blog focusing on Office365 advanced, security and upcoming feature topics.
 
 [Tmux session switching bindings](https://waylonwalker.com/tmux-fzf-session-jump/)
 
