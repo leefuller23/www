@@ -16,3 +16,12 @@ I'm a big fan of backwards compatability. If you use an app or service and it po
 
 ## Status
 As of 04/06/2022 Email and Website are supported at .uk and .io - My self hosted 'qtnet' apps are more complex and still pending.
+
+Mail - complete
+Site - compplete (includes Element - now available at [leefuller.uk/element](leefuller.uk/element))
+qtflix - Pending
+qtchat - Pending
+qtsync - NA (Syncthing uses p2p-like trackers and hostname is irrelevant)
+qtcloud - Pending
+qtvpn - Pending
+qtwarrior - Pending

@@ -13,13 +13,19 @@ Something here soon
 
 ## The apps
 qtchat/Mattermost/Element/Matrix
+
 qtcloud/Nextcloud
+
 qtsync/Syncthing
+
 qtvpn/Wireguard (also OpenVPN, L2TP/Ipsec)
+
 qtflix/Jellyfin/Plex/Radarr/Sonarr/Ombi
+
 qtgit/GitLab
+
 qtcompute/Proxmox/Kubernetes/Ceph
 
-ArchiveTeam Warrior
+qtwarrior/ArchiveTeam Warrior
 
-More details in future.
+More details here in future.
