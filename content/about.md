@@ -1,22 +1,13 @@
 ---
 title: "About"
 date: "2020-12-18"
-lastmod: 2022-02-04
+lastmod: 2022-06-04
 ---
-Infrastructure specialist. Self-hosting fanatic.
-
 Junior Cybersecurity Analyst.
 
-Experience supporting Debian/Ubuntu/PopOS RedHat/CentOS/Fedora + Windows in production.
+Self-hosting fanatic.
 
----
-**Compute:** Kubernetes/oVirt/OpenStack
-
-**Storage:** Ceph/GlusterFS
-
-**IaaS/PaaS:** DO/Linode/AWS/GCP/Azure
-
-**Automation:** Ansible/Python/Shell/MQTT/Bash/Powershell
+I mostly use this site to write about how my home network and self hosted apps are deployed.
 
 ---
 
