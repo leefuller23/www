@@ -20,7 +20,7 @@ As of 04/06/2022 Email and Website are supported at .uk and .io - My self hosted
 
 Mail - complete
 
-Site - Mostly complete (includes Element - now available at [leefuller.uk/element](leefuller.uk/element)) - still have some absolute links on my site pointing to .io - I will update these over time :)
+Site - Mostly complete (includes Element - now available at [leefuller.uk/element](https://leefuller.uk/element)) - still have some absolute links on my site pointing to .io - I will update these over time :)
 
 qtflix - Pending
 
@@ -32,4 +32,6 @@ qtcloud - Pending
 
 qtvpn - Pending
 
-qtwarrior - Pending
+qtcctv - Pending
+
+qtwarrior - NA (No public access necessary)

@@ -3,6 +3,8 @@ title: "PGP"
 date: "2021-09-07"
 ---
 
+Please note this PGP key is for the address "me at leefuller dot io". I will add a new key here soon as part of my [migration to .uk.](https://leefuller.uk/moving-to-dot-uk/)
+
 ```bash
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
