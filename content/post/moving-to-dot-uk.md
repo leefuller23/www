@@ -13,3 +13,6 @@ Starting June 2022 I am gradually moving my .io domain over to .uk
 All the previous pointers to the .io domain will continue to work.
 
 I'm a big fan of backwards compatability. If you use an app or service and it points to something.leefuller.io it will continue to work into the future. Same for email.
+
+## Status
+As of 04/06/2022 Email and Website are supported at .uk and .io - My self hosted 'qtnet' apps are more complex and still pending.
