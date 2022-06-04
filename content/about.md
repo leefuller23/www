@@ -5,7 +5,7 @@ lastmod: 2022-06-04
 ---
 Junior Cybersecurity Analyst.
 
-Self-hosting fanatic.
+Interests: Networking, Self-hosting, GNU/Linux.
 
 I mostly use this site to write about how my home network and self hosted apps are deployed.
 
