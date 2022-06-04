@@ -28,4 +28,6 @@ qtcompute/Proxmox/Kubernetes/Ceph
 
 qtwarrior/ArchiveTeam Warrior
 
+qtcctv/Blue Iris)
+
 More details here in future.
