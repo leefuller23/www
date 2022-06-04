@@ -16,22 +16,24 @@ All the previous pointers to the .io domain will continue to work.
 I'm a big fan of backwards compatability. If you use an app or service and it points to something.leefuller.io it will continue to work into the future. Same for email.
 
 ## Status
-As of 04/06/2022 Email and Website are supported at .uk and .io - My self hosted 'qtnet' apps are more complex and still pending.
+As of 04/06/2022 Email and Website are supported at .uk and .io
 
-Mail - complete
+My self hosted 'qtnet' apps are more complex and probably needs me to swap [SWAG](https://fleet.linuxserver.io/image?name=linuxserver/swag) for [Traefik](https://doc.traefik.io/traefik/) so watch this space.
+
+Mail - complete - email anything at leefuller.io or .uk and i will get it :)
 
 Site - Mostly complete (includes Element - now available at [leefuller.uk/element](https://leefuller.uk/element)) - still have some absolute links on my site pointing to .io - I will update these over time :)
 
-qtflix - Pending
+qtflix - pending
 
-qtchat - Pending
+qtchat - pending
 
-qtsync - NA (Syncthing uses p2p-like trackers and hostname is irrelevant)
+qtsync - Not affected
 
-qtcloud - Pending
+qtcloud - pending
 
-qtvpn - Pending
+qtvpn - pending
 
-qtcctv - Pending
+qtcctv - Not available externally, accessed internally at https://cctv.qtnet
 
-qtwarrior - NA (No public access necessary)
+qtwarrior - Not affected
