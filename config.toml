@@ -41,8 +41,8 @@ theme = "minimal-bootstrap-hugo-theme"
   url = "/about/"
   weight = 2
   [[menu.nav]]
-  name = "Status"
-  url = "https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z"
+  name = "qtnet"
+  url = "/qtnet/"
   weight = 3
   [[menu.nav]]
   name = "Links"
