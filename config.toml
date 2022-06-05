@@ -12,7 +12,7 @@ theme = "minimal-bootstrap-hugo-theme"
 
 [params]
   description = "lee love rachel ♡"
-  contentBackgroundColor = "#363636"
+  contentBackgroundColor = "#212121"
   contentTextColor = "#e7dfdd"
   contentLinkColor = "#0645AD"
   contentLinkHoverColor = "#a239ca"
@@ -23,7 +23,7 @@ theme = "minimal-bootstrap-hugo-theme"
   customDateFormat = "Jan 2, 2006"
   customCodeStyle = true
   customBlockquoteStyle = true
-  showPostSummary = true
+  showPostSummary = false
   googleAnalytics = false
   cookieConsent = false
   includeBootstrapJs = false
