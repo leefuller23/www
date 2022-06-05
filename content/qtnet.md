@@ -1,12 +1,16 @@
 ---
 title: "qtnet"
 date: "2022-06-04"
-lastmod: 2022-06-04
+lastmod: 2022-06-05
 ---
-## Executive summary
-qtnet is the name of my home network. All my self hosted apps are ripoffs of existing commercial services with "qt" on the start. Nextcloud is 'qtcloud', plex is 'qtfilx' etc.
+## wtf?
+qtnet is the name of my home network. My self hosted apps are inspired by successful commercial services, powered by mostly open source software, and get "qt" lazily prefixed to the name.
 
-By using the convention of a fake company name, it makes it simple for me to to follow the enterprise techniques I apply at $DAYJOB to everything from naming physical assets, through to app testing/staging and documentation.
+Nextcloud is 'qtcloud', plex is 'qtfilx' etc. Why qt? Because im cute. Im more than cute, I'm adorable. My network = qtnet.
+
+You get it. It's childish. But its my expensive hobbby so I get to name it, right? =)
+
+Also by using a consistent fake company name and consistent (fake) product names, it makes it much easier for me to to follow the enterprise techniques I use at work. This means naming servers, VMs, containers, CI/CD pipelines, all the way through to testing/staging and documentation.
 
 ## Network topology
 Something here soon
@@ -28,6 +32,6 @@ qtcompute/Proxmox/Kubernetes/Ceph
 
 qtwarrior/ArchiveTeam Warrior
 
-qtcctv/Blue Iris)
+qtcctv/Blue Iris
 
 More details here in future.
