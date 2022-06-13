@@ -20,16 +20,18 @@ qtchat/Mattermost/Element/Matrix Synapse.
 
 qtcloud: Self hosted Nextcloud. Photos, file sharing, calendar etc.
 
-qtsync: Self hosted Syncthing - used to sync documents, password vaults etc.
+qtnest: Home Assistant / Node Red / ESPHome implementation for measuring and controlling the environment.
+
+qtnotes: Joplin Notes server
+
+qtsync: Syncthing - used to sync documents, password vaults etc.
 
 qtvpn: Multiple deployments of WireGuard, OpenVPN and LT2P/IPsec for site to site, roaming clients.
 
-qtcctv/Blue Iris: Ingests CCTV feeds from local and remote cameras. Configured for multi tenant access, includes some public CCTV feeds too.
+qtcctv: Blue Iris - CCTV feeds from local and remote cameras. Produces events which trigger actions in qtnest.
 
-qtflix: Jellyfin/Plex instances. Used to serve my DVD collection to my TVs at home.
+qtflix: Kodi/Jellyfin/Plex implementation. Makes live TV and DVD library available to all TVs at home.
 
-qtgit/GitLab: Central code repository for the whole project. Handles code, assets and deployment using CI/CD.
+qtgit: GitLab - Central code repository for the whole project. Handles code, assets and deployment using CI/CD.
 
-qtcompute/Proxmox/Kubernetes/Ceph: Currently only consumed internally, used as the compute and storage fabric for the whole project. Hoping to open up Proxmox in future to provide hosted desktops for family and friends.
-
-qtPRTG/PRTG: A deployment of the PRTG monitoring engine used to ping every device and service every 10 seconds. Used to track incoming/outgoing traffic. HTTPS, SNMP, custom Python scripts for measuring available download and upload speed through my ISP connection.
+qtcompute: Proxmox/Kubernetes/Ceph - Currently only consumed internally, used as the compute and storage fabric for the whole project. Hoping to open up Proxmox in future to provide hosted desktops for family and friends.
