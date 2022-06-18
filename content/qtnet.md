@@ -16,7 +16,7 @@ By using a consistent (fake) company name and consistent (fake) product names, i
 Something here soon hopefully!
 
 ## The apps
-qtchat/Mattermost/Element/Matrix Synapse.
+qtchat: Mattermost/Element/Matrix Synapse.
 
 qtcloud: Self hosted Nextcloud. Photos, file sharing, calendar etc.
 
@@ -32,6 +32,4 @@ qtcctv: Blue Iris - CCTV feeds from local and remote cameras. Produces events wh
 
 qtflix: Kodi/Jellyfin/Plex implementation. Makes live TV and DVD library available to all TVs at home.
 
-qtgit: GitLab - Central code repository for the whole project. Handles code, assets and deployment using CI/CD.
-
-qtcompute: Proxmox/Kubernetes/Ceph - Currently only consumed internally, used as the compute and storage fabric for the whole project. Hoping to open up Proxmox in future to provide hosted desktops for family and friends.
+qtgit: GitLab - Code, container and package registry and CI/CD runner for the whole project.
