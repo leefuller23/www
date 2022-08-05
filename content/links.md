@@ -1,7 +1,11 @@
 ---
 title: "Links"
 date: "2022-02-13"
+lastmod: 2022-08-05
 ---
+
+[Jim Nielsen's Blog] (https://blog.jim-nielsen.com/)
+Web design, software, writing.
 
 [Modern-Work.uk](https://modern-work.uk/)
 
