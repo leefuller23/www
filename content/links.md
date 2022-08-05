@@ -4,7 +4,12 @@ date: "2022-02-13"
 lastmod: 2022-08-05
 ---
 
-[Jim Nielsen's Blog] (https://blog.jim-nielsen.com/)
+[Jeff Geerling](https://www.jeffgeerling.com/)
+
+Linux kernel, Raspberry Pi stuff. The guy is a fucking genius go check his site, follow links to his YouTube and Twitter. And buy merch.
+
+[Jim Nielsen's Blog](https://blog.jim-nielsen.com/)
+
 Web design, software, writing.
 
 [Modern-Work.uk](https://modern-work.uk/)
