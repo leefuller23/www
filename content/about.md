@@ -7,7 +7,7 @@ Junior Cybersecurity Analyst.
 
 Interests: Networking, Self-hosting, GNU/Linux.
 
-This site is a bit vague and empty at the minute but I plan to use it eventually to describe and document [how my home network and self hosted apps are managed.](https://leefuller.uk/qtnet/)
+This site is a bit vague and empty at the minute but I plan to use it eventually to describe and document my home lab and self-hosted apps.
 
 ---
 
