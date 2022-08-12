@@ -85,6 +85,7 @@ Stop-MessageTrace <GUID>
 
 
 ## Do content search and purge results into deleted items folder
+
 ```powershell
 $Search=New-ComplianceSearch -Name "Remove Usecure Email2" -ExchangeLocation All -ContentMatchQuery '(Subject:"Invite to complete your business policies")'
 Start-ComplianceSearch -Identity $Search.Identity
