@@ -82,3 +82,12 @@ Connect-ExchangeOnline -userprincipalname account@fqdn
 Get-HistoricalSearch
 # Replace <GUID> with GUID from above command
 Stop-MessageTrace <GUID>
+
+
+## Do content search and purge results into deleted items folder
+```powershell
+$Search=New-ComplianceSearch -Name "Remove Usecure Email2" -ExchangeLocation All -ContentMatchQuery '(Subject:"Invite to complete your business policies")'
+Start-ComplianceSearch -Identity $Search.Identity
+
+New-ComplianceSearchAction -SearchName "Remove Usecure Email2" -Purge -PurgeType SoftDelete
+```
