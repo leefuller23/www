@@ -34,7 +34,7 @@ paginate = 5
   showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -68,13 +68,13 @@ paginate = 5
     subtitle = "Lee Fuller"
     owner = "Lee Fuller"
     keywords = ""
-    copyright = "2022"
+    copyright = "leefuller.uk and leefuller.io are hosted by Cloudflare Pages."
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "More posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Oops, we have a 404."
+    missingContentMessage = "Apologies. Please try adding /post/ after the domain."
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
