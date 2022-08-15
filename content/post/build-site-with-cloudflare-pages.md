@@ -6,6 +6,10 @@ lastmod: 2021-07-12
 draft: false
 ---
 
+## Out of date page warning
+
+This page is obsoleted by a theme update in August 2022 and is waiting for adjustments.
+
 ## Introduction
 
 This is a quick tutorial on how I build / deploy my site.
