@@ -30,6 +30,7 @@ paginate = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  enableGitInfo = true
   showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
@@ -67,7 +68,7 @@ paginate = 5
     subtitle = "Lee Fuller"
     owner = "Lee Fuller"
     keywords = ""
-    copyright = ""
+    copyright = "2022"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "More posts"
