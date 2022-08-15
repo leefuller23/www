@@ -78,15 +78,20 @@ net localgroup administrators AzureAD\JohnDoe /add
 install-module exchangeonlinemanagement
 import-module exchangeonlinemanagement
 Connect-ExchangeOnline -userprincipalname account@fqdn
+
 # This will list running trace jobs, notice GUID column
 Get-HistoricalSearch
 # Replace <GUID> with GUID from above command
 Stop-MessageTrace <GUID>
+```
 
 
 ## Do content search and purge results into deleted items folder
 
 ```powershell
+Import-Module ExchangeOnlineManagement
+Connect-IPPSSession -UserPrincipalName account@fqdn
+
 $Search=New-ComplianceSearch -Name "Remove Usecure Email2" -ExchangeLocation All -ContentMatchQuery '(Subject:"Invite to complete your business policies")'
 Start-ComplianceSearch -Identity $Search.Identity
 
