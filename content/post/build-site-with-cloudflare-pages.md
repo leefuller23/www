@@ -2,7 +2,7 @@
 title: "Create and host a site for free with Cloudflare Pages"
 date: 2021-07-12
 publishdate: 2021-07-12
-lastmod: 2021-07-12
+lastmod: 2022-08-15
 draft: false
 ---
 
