@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://leefuller.uk/"
 languageCode = "en-GB"
 theme = "terminal"
 paginate = 5
