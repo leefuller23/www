@@ -1,7 +1,7 @@
 ---
 title: "Ytd-dlp Cheat Sheet"
-date: 2022-08-17
-lastmod: 2022-08-17
+date: 2022-08-18
+lastmod: 2022-08-18
 ---
 
 ## Download a list of videos from a text file and convert to mp3
