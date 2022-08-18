@@ -1,5 +1,5 @@
 ---
-title: "Ytd-dlp Cheat Sheet"
+title: "Yt-dlp Cheat Sheet"
 date: 2022-08-18
 lastmod: 2022-08-18
 ---
