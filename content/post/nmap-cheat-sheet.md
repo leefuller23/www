@@ -4,6 +4,10 @@ date: 2022-08-08
 lastmod: 2022-08-08
 ---
 
+```powershell
+nmap -sC -sV -Pn --script vulners 10.0.4.11
+```
+
 ```bash
 nmap -sC -sV -p- -T5 -vv [Target_IP]
 ```
