@@ -3,23 +3,30 @@ title: "Links"
 date: "2022-02-13"
 lastmod: 2022-08-05
 ---
+[https://www.socinvestigation.com/threat-hunting-using-windows-security-log/](https://www.socinvestigation.com/threat-hunting-using-windows-security-log/)
 
+Event IDs to look for in Event Viewer when threat hunting in Windows.
+* * *
 [Jeff Geerling](https://www.jeffgeerling.com/)
 
 Linux kernel, Raspberry Pi stuff. The guy is a fucking genius go check his site, follow links to his YouTube and Twitter. And buy merch.
 
+* * *
 [Jim Nielsen's Blog](https://blog.jim-nielsen.com/)
 
 Web design, software, writing.
 
+* * *
 [Modern-Work.uk](https://modern-work.uk/)
 
 Blog focusing on Office365 advanced, security and upcoming feature topics.
 
+* * *
 [Tmux session switching bindings](https://waylonwalker.com/tmux-fzf-session-jump/)
 
-Couple helpful snippets (and an optional youtube video)
+Couple helpful snippets (and an optional youtube video).
 
+* * *
 [Windows Defender is enough, if you harden it](https://0ut3r.space/2022/03/06/windows-defender/)
 
 Secure windows defender with some reg tweaks.
