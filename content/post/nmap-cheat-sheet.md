@@ -1,7 +1,7 @@
 ---
 title: "nmap cheat sheet"
 date: 2022-08-08
-lastmod: 2022-08-08
+lastmod: 2022-08-19
 ---
 
 ```powershell
