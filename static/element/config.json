@@ -31,7 +31,7 @@
     "default_theme": "dark",
     "roomDirectory": {
         "servers": [
-            "matrix.leefuller.io"
+            "matrix.leefuller.io",
             "matrix.org"
         ]
     },
