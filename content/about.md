@@ -3,7 +3,7 @@ title: "About"
 date: "2020-12-18"
 lastmod: 2022-06-04
 ---
-Junior Cybersecurity Analyst.
+Junior Cybersecurity Analyst + IT Support technician.
 
 Interests: Networking, Self-hosting, GNU/Linux.
 
@@ -13,11 +13,13 @@ This site is a bit vague and empty at the minute but I plan to use it eventually
 
 ## Contact me
 
+**Matrix** @lee:matrix.leefuller.io
+
 **qtchat** [@lee](https://chat.leefuller.io/qtchat-official/messages/@lee)
 
 **Email** [www@leefuller.uk](mailto:www@leefuller.uk) [(PGP key)](https://leefuller.uk/pgp/)
 
-**Matrix** @lee.qtnet:matrix.org
+
 
 ---
 
