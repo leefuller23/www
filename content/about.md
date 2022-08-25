@@ -7,8 +7,6 @@ Junior Cybersecurity Analyst + IT Support technician.
 
 Interests: Networking, Self-hosting, GNU/Linux.
 
-This site is a bit vague and empty at the minute but I plan to use it eventually to describe and document my home lab and self-hosted apps.
-
 ---
 
 ## Contact me
@@ -18,8 +16,6 @@ This site is a bit vague and empty at the minute but I plan to use it eventually
 **qtchat** [@lee](https://chat.leefuller.io/qtchat-official/messages/@lee)
 
 **Email** [www@leefuller.uk](mailto:www@leefuller.uk) [(PGP key)](https://leefuller.uk/pgp/)
-
-
 
 ---
 
