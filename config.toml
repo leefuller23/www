@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "post"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
@@ -74,7 +74,7 @@ paginate = 5
     readOtherPosts = "More posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Apologies. Please try adding /post/ after the domain."
+    missingContentMessage = "Error 404. Page not found."
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
@@ -94,7 +94,7 @@ paginate = 5
         identifier = "RSS"
         name = "RSS"
         url = "/index.xml"
-      [[languages.en.menu.main]]
-        identifier = "Element Web"
-        name = "Element Web"
-        url = "https://leefuller.uk/element"
+#      [[languages.en.menu.main]]
+#        identifier = "Element Web"
+#        name = "Element Web"
+#        url = "https://leefuller.uk/element"
