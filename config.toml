@@ -68,7 +68,7 @@ paginate = 5
     subtitle = "Lee Fuller"
     owner = "Lee Fuller"
     keywords = ""
-    copyright = "2015 - 2022 - qtnet global industries ltd PLC"
+    copyright = "2015 - 2022 - qtnet holding company"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "More posts"
@@ -94,7 +94,7 @@ paginate = 5
         identifier = "RSS"
         name = "RSS"
         url = "/index.xml"
-#      [[languages.en.menu.main]]
-#        identifier = "Element Web"
-#        name = "Element Web"
-#        url = "https://leefuller.uk/element"
+      [[languages.en.menu.main]]
+        identifier = "Uptime"
+        name = "Uptime"
+        url = "https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z"
