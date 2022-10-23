@@ -1,6 +1,7 @@
 ---
-title: "Now hosted at home"
-date: 2022-10-22
+title: "Literally random shite"
+date: 1970-01-01
+lastmod: 2022-0421
 ---
 
 If you are seeing this, it means it is working omg!
