@@ -9,8 +9,6 @@ Network technician
 
 Self-hosting geek
 
-Enjoys fat 303s.
-
 ---
 
 ## Contact me
