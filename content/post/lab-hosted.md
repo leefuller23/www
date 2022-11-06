@@ -5,7 +5,7 @@ date: 2022-10-22
 
 Since 2015 my site has been hosted randomly between digital ocean, google compute engine, heroku, linode and cloudflare pages. It has also been equally non-hosted without an A record. 
 
-Cool fact: for the past year it has 100% contonuous uptime thanks to cloudflare pages.
+Cool fact: for the past year it has 100% continuous uptime thanks to cloudflare pages.
 
 ![Snip from statuscake showing 1 year 1 month continuous uptime](/asset/lab-hosted/statuscake.png)
 
