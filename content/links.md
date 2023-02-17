@@ -4,7 +4,7 @@ date: "2022-02-13"
 lastmod: 2022-08-05
 ---
 * * *
-[Craglea Mundsley](CragleaMundsley.co.uk)
+[CragleaMundsley.co.uk](https://cragleamundsley.co.uk/)
 
 Beautiful Holiday home / AirBnB let run by a family member.
 
