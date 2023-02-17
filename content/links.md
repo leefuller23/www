@@ -3,10 +3,19 @@ title: "Links"
 date: "2022-02-13"
 lastmod: 2022-08-05
 ---
+* * *
+[Craglea Mundsley](CragleaMundsley.co.uk)
+
+Beautiful Holiday home / AirBnB let run by a family member.
+
+* * *
+
 [https://www.socinvestigation.com/threat-hunting-using-windows-security-log/](https://www.socinvestigation.com/threat-hunting-using-windows-security-log/)
 
 Event IDs to look for in Event Viewer when threat hunting in Windows.
+
 * * *
+
 [Jeff Geerling](https://www.jeffgeerling.com/)
 
 Linux kernel, Raspberry Pi stuff. The guy is a fucking genius go check his site, follow links to his YouTube and Twitter. And buy merch.
