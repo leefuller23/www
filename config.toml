@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "post"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
@@ -67,8 +67,8 @@ paginate = 5
     title = "LeeFuller.uk"
     subtitle = "Lee Fuller"
     owner = "Lee Fuller"
-    keywords = ""
-    copyright = "2015 - 2022 - qtnet holding company"
+    keywords = "Lee love Rachel"
+    copyright = "2015 - 2023 - qtnet holding company"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "More posts"
