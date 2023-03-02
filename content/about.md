@@ -9,6 +9,8 @@ Network technician
 
 Self-hosting geek
 
+This site is just a collection of notes, personal reminders and garbage.
+
 ---
 
 ## Contact me
