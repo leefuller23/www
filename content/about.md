@@ -33,5 +33,3 @@ Self-hosting geek
 This site is just a collection of notes, personal reminders and general trash.
 
 It is hosted on my home lab in the most complex way possible. I will write about it one day. For now I track the uptime [here](https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z)
-
-If everything is working it is rebuilt from [hugo markdown](https://github.com/leefuller23/www) each day at midnight. The most recent build time is added to the end of this page. Sometimes I break my gitlab instance and rebuilds break for days or weeks. It's okay.
