@@ -98,3 +98,33 @@ Start-ComplianceSearch -Identity $Search.Identity
 
 New-ComplianceSearchAction -SearchName "Remove Usecure Email2" -Purge -PurgeType SoftDelete
 ```
+
+## Recipient Filter for dynamic distribution list with all users except -ne entries
+```powershell
+Set-DynamicDistributionGroup -Identity "all" -RecipientFilter "((PrimarySmtpAddress -ne 'mailbox@domain.tld) -and ((RecipientType -eq 'UserMailbox') -or (RecipientType -eq 'MailUser')))"
+```
+
+## List members of 365 dynamic distribution list
+```powershell
+#gives list of members
+
+ 
+
+$GroupName = "all@gippingconstruction.co.uk"
+
+ 
+
+$Group = Get-DynamicDistributionGroup -Identity $GroupName
+
+if ($Group) {
+
+    $GroupMembers = Get-Recipient -RecipientPreviewFilter $Group.RecipientFilter
+
+    $GroupMembers | Select-Object DisplayName, PrimarySmtpAddress
+
+} else {
+
+    Write-Host "Dynamic distribution group $($GroupName) not found."
+
+}
+```

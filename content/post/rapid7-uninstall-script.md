@@ -3,7 +3,7 @@ title: "Rapid7 windows uninstall script"
 date: 2023-08-21
 ---
 
-'''powershell
+```powershell
 # Search for the Microsoft Monitoring Agent
 $monitoringAgent = Get-WmiObject -Class Win32_Product | Where-Object { $_.Name -match "Rapid7 Insight Agent" }
 
@@ -15,4 +15,4 @@ if ($monitoringAgent) {
 } else {
     Write-Host "Rapid7 Insight Agent not found"
 }
-'''
+```
