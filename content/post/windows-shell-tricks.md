@@ -128,3 +128,17 @@ if ($Group) {
 
 }
 ```
+
+## Decouple AD and 365 cloud user with immutableID
+```powershell
+PS C:\WINDOWS\system32> install-module MSOnline
+
+Untrusted repository
+You are installing the modules from an untrusted repository. If you trust this repository, change its
+InstallationPolicy value by running the Set-PSRepository cmdlet. Are you sure you want to install the modules from
+'PSGallery'?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"): A
+PS C:\WINDOWS\system32> import-module msonline
+PS C:\WINDOWS\system32> Connect-MsolService
+PS C:\WINDOWS\system32> Set-MsolUser -UserPrincipalName vanessa.brown@ageuknorfolk.org.uk -ImmutableId "$null"
+```
