@@ -6,15 +6,11 @@ lastmod: 2022-08-15
 draft: false
 ---
 
-## Out of date page warning
-
-This page is obsoleted by a theme update in August 2022 and is waiting for adjustments.
-
 ## Introduction
 
 This is a quick tutorial on how I build / deploy my site.
 
-I maintain markdown files in a GitHub repo and using automation I get a super fast, reliable site hosted directly on Cloudflare CDN.
+I maintain markdown files on GitHub and using automation I get a super fast, reliable site hosted directly on Cloudflare CDN.
 
 ## What you need
 

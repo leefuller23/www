@@ -2,18 +2,9 @@
 title: "Windows shell tricks"
 date: 2022-03-11
 publishdate: 2022-03-11
-lastmod: 2022-04-21
+lastmod: 2023-11-28
 draft: false
 ---
-
-## Hello, Windows Fans!
-
-A big part of my working day is spent troubleshooting Windows server, windows 10, 11. Also XP, Vista 7 8 8.1, 2008, 20012, 20012R2, 2016, 2019. Cloud, on-prem (shout out to the on prem heros) and hybrid.
-
-It is worth adding all those commands to one big page so I can CTRL-F and find them all. It's a work in progress.
-
-## Thanks
-Will: user profile list/delete with powershell + 365 message trace 
 
 ## Sections
 [0] Basic Windows stuff
@@ -136,3 +127,21 @@ import-module msonline
 Connect-MsolService
 Set-MsolUser -UserPrincipalName user@domain.tld -ImmutableId "$null"
 ```
+
+#Rapid7 uninstall script
+```powershell
+# Search for the Microsoft Monitoring Agent
+$monitoringAgent = Get-WmiObject -Class Win32_Product | Where-Object { $_.Name -match "Rapid7 Insight Agent" }
+
+# If the agent is found, uninstall it
+if ($monitoringAgent) {
+    Write-Host "Uninstalling Rapid7 Insight Agent"
+    $uninstallCommand = $monitoringAgent | Select-Object -ExpandProperty IdentifyingNumber
+    Start-Process -FilePath "C:\Windows\System32\msiexec.exe" -ArgumentList "/x `"$uninstallCommand`" /qn" -Wait
+} else {
+    Write-Host "Rapid7 Insight Agent not found"
+}
+```
+
+## Thanks
+Will: user profile list/delete with powershell + 365 message trace 
