@@ -87,14 +87,6 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "links"
-        name = "Links"
-        url = "/links"
-      [[languages.en.menu.main]]
         identifier = "RSS"
         name = "RSS"
         url = "/index.xml"
-      [[languages.en.menu.main]]
-        identifier = "Uptime"
-        name = "Uptime"
-        url = "https://uptime.statuscake.com/?TestID=HgUuA2XQ7Z"
