@@ -5,11 +5,11 @@ lastmod: 2022-08-19
 ---
 
 ```powershell
-nmap -sC -sV -Pn --script vulners 10.0.4.11
-```
 
-```bash
-nmap -sC -sV -p- -T5 -vv [Target_IP]
+nmap -sC -sV -oA > nmap.txt 10.129.83.179
+
+nmap -sC -sV -Pn --script vulners 10.0.4.11
+
 ```
 
 T5 = to increase scan speed
